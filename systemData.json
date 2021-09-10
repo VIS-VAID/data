@@ -1,0 +1,1453 @@
+[
+    {
+        "figId": "vis-2819_00",
+        "figFile": "vis-2819_00.png",
+        "title": "A Visual Analytics Approach for Understanding Reasons behind Snowballing and Comeback in MOBA Games",
+        "caption": "Figure 1. A match with comeback occurrence. (a) Trend View discloses the trend of game play during a match. (b) Trajectory View simulates the game replay. (c) Tactic Geographical Timeline View presents details of players\u2019 behavior in the time period of interest. (d) Resource Time Sequence View displays the accumulated resources and changes in resources of each player. (e) Tactic Comparison View (Left) unfolds the temporal dynamics of all the tactical actions in two camps while Equipment Evolution View (Right) shows the equipment evolution hierarchies. (f) Player Billing Radar View represents the statistical information of each player. ",
+        "viewIds": [
+            "vis-2819_00_0",
+            "vis-2819_00_1",
+            "vis-2819_00_2",
+            "vis-2819_00_3",
+            "vis-2819_00_4",
+            "vis-2819_00_5",
+            "vis-2819_00_6",
+            "vis-2819_00_7",
+            "vis-2819_00_8"
+        ]
+    },
+    {
+        "figId": "vis-2821_00",
+        "figFile": "vis-2821_00.png",
+        "title": "SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations",
+        "caption": "Fig. 1. SmartAdP system. (A) Dashboard View shows the information of the current solution for billboard placements. (B) Map View provides a visual summary of the geospatial environment. (C) Solution Preview lists the parameters and statistics of the candidate solutions. (D) Solution View lays out all the solutions as glyphs to reveal the relationships among the solutions. (E) Location View supports in-depth analysis at the fine-grained location level. (F) Ranking View displays multi-typed ranks of the solutions.",
+        "viewIds": [
+            "vis-2821_00_0",
+            "vis-2821_00_1",
+            "vis-2821_00_2",
+            "vis-2821_00_3",
+            "vis-2821_00_4"
+        ]
+    },
+    {
+        "figId": "vis-2822_00",
+        "figFile": "vis-2822_00.png",
+        "title": "Visual Analysis of MOOC Forums with iForum",
+        "caption": "Fig. 1. Using iForum to explore the MOOC forum of a JAVA programming course that has attracted more than ten thousand students during a ten-week course period. (a) The Overview shows the overall changes of posts, threads, and users on the forum. (b) The Matrix View further enables the comparison of dynamic patterns of different user groups along time. After a cell of interest is selected, orange lines are shown on top of the matrix to indicate the threads passing through that cell. (c) Meanwhile, the Thread View presents all selected threads in a compact layout, and (d) the Social Network View reveals the interactions among corresponding users based on their replying relationships. (e) When a specific thread is selected, the Text View displays discussions in traditional indented form.",
+        "viewIds": [
+            "vis-2822_00_0",
+            "vis-2822_00_1",
+            "vis-2822_00_2",
+            "vis-2822_00_3",
+            "vis-2822_00_4"
+        ]
+    },
+    {
+        "figId": "vis-2824_00",
+        "figFile": "vis-2824_00.png",
+        "title": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings",
+        "caption": "Fig. 1: An overview of our visual analytics system, called AxiSketcher. (a) Dashboard allows users to choose a sketching method, to change axes to previously constructed axes, and to change other peripheral settings; (b) Axis Rainbow visualizes nonlinear progression of data attributes in ThemeRiver-style visualizations; (c) Scatterplot shows data points mapped to user-defined axes; (d) Detail View shows the original attribute values of selected data items as a table (top) and an aster plot (bottom).",
+        "viewIds": [
+            "vis-2824_00_0",
+            "vis-2824_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2825_00",
+        "figFile": "vis-2825_00.png",
+        "title": "TextTile: An Interactive Visualization Tool for Seamless Exploratory Analysis of Structured Data and Unstructured Text",
+        "caption": "Fig. 1. TextTile interface showing data from the Yelp-Heathcare reviews dataset with: a) fields panel showing all the fields present in the data; b) filter panel with filter specification to select only reviews from New York; c) split panel with three segments generated using the business category field; d) summarize panel having three segments (Medical Centers, Chiropractors, and General Dentistry ) with keywords charts to show relevant words, bar charts to show rating distribution and maps for location distribution by zip code. ",
+        "viewIds": [
+            "vis-2825_00_0",
+            "vis-2825_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2827_05",
+        "figFile": "vis-2827_05.png",
+        "title": "AnaFe: Visual Analytics of Image-derived Temporal Features Focusing on the Spleen",
+        "caption": "Fig. 4. An application layout showing locations of all views, as described in Section 4.4. The arrow indicates interchangeable views.",
+        "viewIds": [
+            "vis-2827_05_0",
+            "vis-2827_05_1",
+            "vis-2827_05_2",
+            "vis-2827_05_3",
+            "vis-2827_05_4"
+        ]
+    },
+    {
+        "figId": "vis-2828_00",
+        "figFile": "vis-2828_00.png",
+        "title": "NameClarifier: A Visual Analytics System for Author Name Disambiguation",
+        "caption": "Fig. 1. Interface for the NameClarifier, which contains the following: (A) a relation view that contrasts papers containing ambiguous author names with confirmed authors, resulting in easier classification of ambiguous names; (B) a group view that supports the relation view by assessing whether the ambiguous names have been correctly and comprehensively classified; (C) a temporal view that verifies whether a specific paper fits into a confirmed author\u2019s publication trajectory; and (D) a list containing all papers with ambiguous author names so that the users can always refer back to the original metadata.",
+        "viewIds": [
+            "vis-2828_00_0",
+            "vis-2828_00_1",
+            "vis-2828_00_2",
+            "vis-2828_00_3",
+            "vis-2828_00_4",
+            "vis-2828_00_5"
+        ]
+    },
+    {
+        "figId": "vis-2832_00",
+        "figFile": "vis-2832_00.png",
+        "title": "PhenoStacks: Cross-Sectional Cohort Phenotype Comparison Visualizations",
+        "caption": "Fig. 1. PhenoStacks employs an observations plot (D) to reveal the distribution of phenotypes (rows) across patients (columns) in a cohort, which can be sorted by patient or phenotype attributes. Similar phenotypes can be grouped based on the Human Phenotype Ontology (B,C). Radial hierarchies (A) summarize global patterns. Views are linked, e.g., search results (E) are highlighted (A,C,D).",
+        "viewIds": [
+            "vis-2832_00_0",
+            "vis-2832_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2833_00",
+        "figFile": "vis-2833_00.png",
+        "title": "Designing Progressive and Interactive Analytics Processes for High-Dimensional Data Analysis",
+        "caption": "Fig. 1. Iteratively refining a credit card transaction segment (details in Section 4.1) using progressive computations that are real- ized through a prototype built according to our design recommendations for temporally optimized analytical processes. Transaction segments are generated either through clustering (a) or through selections on a plot showing principal component analysis (PCA) results (b). Both the clustering and PCA computations are done \u201conline\u201d and the visualizations continuously update (according to the three levels of operation) either until the user changes the conditions to re-initiate the computations or until all the data is consumed. Subsegments are further refined through accompanying views (c, middle views), and the difference view (d) describing the segment.",
+        "viewIds": [
+            "vis-2833_00_0",
+            "vis-2833_00_1",
+            "vis-2833_00_2"
+        ]
+    },
+    {
+        "figId": "vis-2836_00",
+        "figFile": "vis-2836_00.png",
+        "title": "A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections",
+        "caption": "Fig. 1. The interface of our visual analytics framework for joint distribution reconstruction. (a) The features of the joint reconstruction solution space are defined. The user selects a subset of features (highlighted in purple) and visualizes it with (b) augmented parallel coordinates. Box plots and heat maps integrated into the axes bars show the distributions of the features. (c) Constraints can be added by filtering the range in each axis. (d) The probability density functions of the features before and after filtering are visualized as line charts. The bars below the line charts show the ranges of features after filtering. (e) The control panel for visualization.",
+        "viewIds": [
+            "vis-2836_00_0"
+        ]
+    },
+    {
+        "figId": "vis-2839_03",
+        "figFile": "vis-2839_03.png",
+        "title": "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations",
+        "caption": "Fig. 3. The front-end interface of the C8 data annotation system: a) Grid View, b) Timeline View, c) Context View, d) Comments View, and e) Annotation Graph View. This particular snapshot features the use of C8 to analyze the results of an HCI user study that records participants pointing at a target on a tabletop display with different experimental conditions.",
+        "viewIds": [
+            "vis-2839_03_0",
+            "vis-2839_03_1",
+            "vis-2839_03_2"
+        ]
+    },
+    {
+        "figId": "vis-2842_00",
+        "figFile": "vis-2842_00.png",
+        "title": "ViDX: Visual Diagnostics of Assembly Line Performance in Smart Factories",
+        "caption": "Fig. 1. A screenshot of the ViDX system for historical analysis and real-time tracking of assembly line performance. The historical data analysis panel consists of an extended Marey\u2019s graph (A) for troubleshooting inefficiencies and faults on the assembly lines. It is linked with a calendar based visualization (B) and a timeline (C) for multi-scale temporal exploration. Supplementary views include small multi- ples of histograms (D) showing the distribution of the cycle times on each station and a map (E) showing the assembly line schema. The real-time monitoring panel consists of a radial graph (F) and an explorable 3D station model visualization (G). (H) shows the fault codes.",
+        "viewIds": [
+            "vis-2842_00_0",
+            "vis-2842_00_1",
+            "vis-2842_00_2",
+            "vis-2842_00_3"
+        ]
+    },
+    {
+        "figId": "vis-2844_05",
+        "figFile": "vis-2844_05.png",
+        "title": "GazeDx: Interactive Visual Analytics Framework for Comparative Gaze Analysis with Volumetric Medical Images",
+        "caption": "Fig. 5. GazeDx interface for chest normal case (Comparison tab). (A) Scatter plot matrix. (B) CIS: context-embedded interactive scatter plot with gaze points grouped to five clusters. (C) Interactive temporal chart. (D) Aggregation pane showing aggregated gaze data for the readers in individual view panes. (E) ROI selection pane with \u201cSegmentation ROI\u201d filter and \u201cWindow preset\u201d filter. Interactive temporal charts in (C) and (F) clearly show the difference in gaze pattern between scanner and driller strategy (frequently changing color in (C), scanner; relatively consistent color in (F), driller). (G) CIS with horizontal axis of pupil diameter and vertical axis of slice index, where the gaze data is color-coded by window preset (left-shifted green cluster for lung, and right-shifted orange cluster for mediastinum setting). (H) CIS with embedded coronal plane image. ",
+        "viewIds": [
+            "vis-2844_05_0",
+            "vis-2844_05_1",
+            "vis-2844_05_2"
+        ]
+    },
+    {
+        "figId": "vis-2845_00",
+        "figFile": "vis-2845_00.png",
+        "title": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths",
+        "caption": "Fig. 1: Interface design for interactive clickstream analysis: the pattern view shows maximal sequential patterns extracted from the dataset; the sequence view displays raw sequences in coordination with user interaction in the pattern view; the context view provides contextual information on the segment and hierarchical level of the dataset being explored.",
+        "viewIds": [
+            "vis-2845_00_0",
+            "vis-2845_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2846_03",
+        "figFile": "vis-2846_03.png",
+        "title": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers",
+        "caption": "Fig. 4. Squares displaying the performance of a digit recognition classifier trained on the MNIST handwritten digits dataset [24]. All classes are represented with stacks except C3 and C5 which are expanded to boxes for more details. The solid red boxes in C5\u2019s column represents instances correctly predicted as C5 while the green-stripped boxes in that column represent instances labeled as C3 but incorrectly predicted as C5.",
+        "viewIds": [
+            "vis-2846_03_0"
+        ]
+    },
+    {
+        "figId": "vis-2848_00",
+        "figFile": "vis-2848_00.png",
+        "title": "Multi-Resolution Climate Ensemble Parameter Analysis with Nested Parallel Coordinates Plots",
+        "caption": "Fig. 1. The proposed visual analytics system: (A1) the nested parallel coordinates plot (NPCP) for analyzing multi-dimensional parameter correlations across resolutions; (A2) high-dimensional range query in NPCP with a set expression; (B1, B2) heat maps for ensemble quality overview and color legends for different quality levels; (B3) dendrograms for grouping similar ensemble members; (C1, C2, C3) geographic views for one ensemble item, one observation item and the difference between them; (C4) equation for calculating the difference between an ensemble item and an observation item; (C5) control widgets for ensemble exploration.",
+        "viewIds": [
+            "vis-2848_00_0",
+            "vis-2848_00_1",
+            "vis-2848_00_2"
+        ]
+    },
+    {
+        "figId": "vis-2851_00",
+        "figFile": "vis-2851_00.png",
+        "title": "VisMatchmaker: Cooperation of the User and the Computer in Centralized Matching Adjustment",
+        "caption": "Fig. 1. An overview of the interface of VisMatchmaker. (a) The stacked graph view enables the comparison amongst multiple matchings. (b) The summary view provides different summary statistics of a selected matching. (c) The number line view shows different aspects of each agent\u2019s goodness of match in multiple matchings. (d) The visual preference list shows the states of the items in each agent\u2019s preference list. (e) The scatterplot gives an overview of the popularity and the welfare of the agents.",
+        "viewIds": [
+            "vis-2851_00_0",
+            "vis-2851_00_1",
+            "vis-2851_00_2",
+            "vis-2851_00_3"
+        ]
+    },
+    {
+        "figId": "vis-2854_00",
+        "figFile": "vis-2854_00.png",
+        "title": "C2A: Crowd consensus analytics for virtual colonoscopy",
+        "caption": "Figure 1: The C2 A system includes (A) Timeline Filtering View for selecting datasets within a specified time interval, (B) Aggregated Textual Information for displaying a textual summary of the crowd statistics and application specific performance, (C) Similarity View for displaying the overlap and Euclidean distance metric of the crowd demographics and video segment statistics, (D) Consensus Map for displaying the crowd consensus on polyp and polyp-free (benign) video segments along with aggregated crowd accuracy and timing, (E) Crowd View for displaying crowd demographics and rewards, (F) Video Segments View for displaying selected video segments, and (G) Word Cloud displaying keywords from user comments.",
+        "viewIds": [
+            "vis-2854_00_0",
+            "vis-2854_00_1",
+            "vis-2854_00_2",
+            "vis-2854_00_3",
+            "vis-2854_00_4",
+            "vis-2854_00_5"
+        ]
+    },
+    {
+        "figId": "vis-2856_00",
+        "figFile": "vis-2856_00.png",
+        "title": "D-Map: Visual Analysis of Ego-centric Information Diffusion Patterns in Social Media",
+        "caption": "Figure 1: System Interface: Source Weibo Table View (a), for selecting different groups of source weibos; Source Weibo Distribution View (b), including Documents View (b1) and Keywords View (b2); D-Map View (c), summarizing the social interaction among participating people of a central user; Community Radar View (d), showing the high dimensional features of communities with a Radar View (d1) and a Statistics Information Window (d2); Hierarchical View (e), illustrating the reposting structures; Timeline View (f), highlighting the temporal trends of the diffusion; Small Multiple View (g), identifying key time frames of D-Map\u2019s snapshots.",
+        "viewIds": [
+            "vis-2856_00_0",
+            "vis-2856_00_1",
+            "vis-2856_00_2",
+            "vis-2856_00_3",
+            "vis-2856_00_4",
+            "vis-2856_00_5",
+            "vis-2856_00_6"
+        ]
+    },
+    {
+        "figId": "vis-2857_00",
+        "figFile": "vis-2857_00.png",
+        "title": "How ideas flow across multiple social groups",
+        "caption": "Figure 1: Top-level idea clusters and the corresponding flows of the Congress data: (a) an overview of ideas; (b) lead-lagrelationships over time; (c) information panel.",
+        "viewIds": [
+            "vis-2857_00_0",
+            "vis-2857_00_1",
+            "vis-2857_00_2"
+        ]
+    },
+    {
+        "figId": "vis-2858_00",
+        "figFile": "vis-2858_00.png",
+        "title": "EventAction: Visual analytics for temporal event sequence recommendation",
+        "caption": "Figure 1: EventAction provides a visual analytics approach for helping data analysts recommend actions to improve the outcome. The user interface consists of seven coordinated views, opening progressively as the analysis progresses: (a) workflow control panel, (b) current record timeline, (c) activity summary view, (d) outcome distribution view, (e) similarity distribution view, (f) similar archived record timelines, and (g) correlation view. Figures in this paper illustrate a synthetic dataset.",
+        "viewIds": [
+            "vis-2858_00_0",
+            "vis-2858_00_1",
+            "vis-2858_00_2",
+            "vis-2858_00_3",
+            "vis-2858_00_4"
+        ]
+    },
+    {
+        "figId": "vis-2860_00",
+        "figFile": "vis-2860_00.png",
+        "title": "DimScanner: A Relation-based Visual Exploration Approach Towards Data Dimension Inspection",
+        "caption": "Figure 1: The DimScanner interface on the Seattle 911 calls and responses dataset whose time span ranges from October 28, 2013 to February 14, 2014. (a) The categorization tree is structured with 16 1D views and 120 2D views contributed by 16 dimensions of the data. The tree structure indicates the clustering hierarchy of pair-wise view relations such that views on the same branch are more likely to be related than those far apart. (b) The dimension summary column summarizes the data types (by icons) of the dimensions. It indicates that the dataset contains eight categorical dimensions, six numeric dimensions and two time-related dimensions. (c) The view selector widget displays a matrix of all views. It highlights three groups of views selected by analysts with colors. (d) The view summary snapshots keep track of analysts\u2019 observations (three highlighted groups are shown in this case).",
+        "viewIds": [
+            "vis-2860_00_0",
+            "vis-2860_00_1",
+            "vis-2860_00_2"
+        ]
+    },
+    {
+        "figId": "vis-2863_00",
+        "figFile": "vis-2863_00.png",
+        "title": "DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction",
+        "caption": "Figure 1: The figure shows the DropoutSeer system for the analysis of a JAVA programming course: (A) shows the learner groups clustered by their learning activity. (B) displays the clickstream behavior and the assignment performance of different learner groups along the timeline. (C) presents the posts of learners on the course forum. (D) lists general information including the overall distribution at the top, the dashboard in the middle, and the forum content at the bottom.",
+        "viewIds": [
+            "vis-2863_00_0",
+            "vis-2863_00_1",
+            "vis-2863_00_2",
+            "vis-2863_00_3"
+        ]
+    },
+    {
+        "figId": "vis-2866_00",
+        "figFile": "vis-2866_00.png",
+        "title": "Visual analysis and coding of data-rich user behavior",
+        "caption": "Figure 1: Interactive coding of user behavior for transcribed user studies: (A) Selection Panel, which lists recorded users, codes, and code categories, as well as options for searching and filtering; (B) Selected Activities Panel, which represents all selected user activities in a visually enriched tabular representation including transcript, word-sized visualizations of eye movement and interaction data, and assigned codes; (C) Sidebar, which provides additional information of a selected activity such as video, enlarged visualizations, statistics, and a legend; (D) Comparison Panel, which allows contrasting codes of different categories and other categorical attributes of activities.",
+        "viewIds": [
+            "vis-2866_00_0",
+            "vis-2866_00_1",
+            "vis-2866_00_2",
+            "vis-2866_00_3",
+            "vis-2866_00_4"
+        ]
+    },
+    {
+        "figId": "vis-2931_00",
+        "figFile": "vis-2931_00.png",
+        "title": "LDSScanner: Exploratory Analysis of Low-Dimensional Structures in High-Dimensional Datasets",
+        "caption": "Fig. 1. The exploratory interface of LDSScanner, after the analyst has identified structures. (a)The configuration panel. (b) The identified-structures view. (c) The t-SNE view. (d) The LTSD-GD view. (e) Bar chart of estimated local dimensionality. (f) Scree plot of pointwise LTS. (g) Scree plot of structures.",
+        "viewIds": [
+            "vis-2931_00_0",
+            "vis-2931_00_1",
+            "vis-2931_00_2",
+            "vis-2931_00_3",
+            "vis-2931_00_4"
+        ]
+    },
+    {
+        "figId": "vis-2933_00",
+        "figFile": "vis-2933_00.png",
+        "title": "DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks",
+        "caption": "Fig. 1. DeepEyes is a Progressive Visual Analytics system for the analysis of deep neural networks during training. The overview on the training is given by the commonly used loss- and accuracy-curves (a) and the Perplexity Histograms (b) a novel visualization that allows the detection of stable layers. A detailed analysis per layer is performed in three tightly linked visualizations. Degenerated filters are detected in the Activation Heatmap (c), and filter activations are visualized on the Input Map (d). Finally, in the Filter Map (e), relationships among the filters in a layer are visualized.",
+        "viewIds": [
+            "vis-2933_00_0",
+            "vis-2933_00_1",
+            "vis-2933_00_2",
+            "vis-2933_00_3",
+            "vis-2933_00_4"
+        ]
+    },
+    {
+        "figId": "vis-2934_00",
+        "figFile": "vis-2934_00.png",
+        "title": "Visual Diagnosis of Tree Boosting Methods",
+        "caption": "Fig. 1. BOOSTVis: (a) the temporal confusion matrix shows the evolution of model performance at the class-level; (b) the instance view reveals the relationships between instances using the t-SNE projection; (c) the classifier view provides an overview of all the decision trees and displays the selected one; (d) the feature view displays the feature distributions on the selected subsets of instances.",
+        "viewIds": [
+            "vis-2934_00_0",
+            "vis-2934_00_1",
+            "vis-2934_00_2",
+            "vis-2934_00_3",
+            "vis-2934_00_4",
+            "vis-2934_00_5"
+        ]
+    },
+    {
+        "figId": "vis-2936_04",
+        "figFile": "vis-2936_04.png",
+        "title": "Voila: Visual Anomaly Detection and Monitoring with Streaming Spatiotemporal Data",
+        "caption": "Fig. 5. The user interface of Voila system consists of eight major views: 1) macro and 2) micro map views; 3) history view; 4) temporal pattern view; 5) feature inspection view; 6) ranking list; 7) snapshot panel; and 8) anomaly panel.",
+        "viewIds": [
+            "vis-2936_04_0",
+            "vis-2936_04_1",
+            "vis-2936_04_2",
+            "vis-2936_04_3",
+            "vis-2936_04_4",
+            "vis-2936_04_5",
+            "vis-2936_04_6",
+            "vis-2936_04_7"
+        ]
+    },
+    {
+        "figId": "vis-2938_00",
+        "figFile": "vis-2938_00.png",
+        "title": "ConceptVector: Text Visual Analytics via Interactive Lexicon Building Using Word Embedding",
+        "caption": "Fig. 1. ConceptVector supports interactive construction of lexicon-based concepts. Here the user creates a new unipolar concept (1) by adding initial keywords related to \u2018tidal flooding\u2019 (2). The system recommends related words along with their semantic groupings (3), also shown in a scatterplot (4), revealing word- and cluster-level relationships. Irrelevant words can be specified to improve recommendation quality (5). Concepts (9) can then be used to rank document corpora (10). Document scores can be visualized in a scatterplot based on concepts such as \u2018tidal flooding\u2019 and \u2018money\u2019 (7). Users can further refine concepts based on results (8).",
+        "viewIds": [
+            "vis-2938_00_0",
+            "vis-2938_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2939_00",
+        "figFile": "vis-2939_00.png",
+        "title": "Do Convolutional Neural Networks Learn Class Hierarchy?",
+        "caption": "Fig. 1. The user interface of our system, showing classification results of the ImageNet ILSVRC dataset [56] using GoogLeNet [64]. (a) The class hierarchy with all classes under bird group selected. (b) The confusion matrix showing misclassified samples only. The bands indicate the selected classes in both dimensions. (c) The sample viewer shows selected samples grouped by actual class.",
+        "viewIds": [
+            "vis-2939_00_0",
+            "vis-2939_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2943_01",
+        "figFile": "vis-2943_01.png",
+        "title": "ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models",
+        "caption": "Fig. 2. ACTI V IS integrates multiple coordinated views. A. The computation graph summarizes the model architecture. B. The neuron activation panel\u2019s matrix view displays activations for instances, subsets, and classes (at B1), and its projected view shows a 2-D t-SNE projection of the instance activations (at B2). C. The instance selection panel displays instances and their classification results; correctly classified instances shown on the left, misclassified on the right. Clicking an instance adds it to the neuron activation matrix view. The dataset used is from the public TREC question answering data collections [25]. The trained model is a word-level convolutional model based on [19].",
+        "viewIds": [
+            "vis-2943_01_0",
+            "vis-2943_01_1",
+            "vis-2943_01_2",
+            "vis-2943_01_3"
+        ]
+    },
+    {
+        "figId": "vis-2944_00",
+        "figFile": "vis-2944_00.png",
+        "title": "SkyLens: Visual Analysis of Skyline on Multi-Dimensional Data",
+        "caption": "Figure 1. Analyzing the skyline of NBA statistics using SkyLens: (a) a Projection View showing an overview of clusters and outliers; (b) a Tabular View depicting the attributes of four skyline players and reveals the factors making a player in skyline; (c) a Comparison View examining the differences between skyline players from the attribute and domination perspectives; (d) a Control Panel for refining skyline queries; (e) a pop-up window showing a detailed comparison between LeBron James and Chris Paul.",
+        "viewIds": [
+            "vis-2944_00_0",
+            "vis-2944_00_1",
+            "vis-2944_00_2"
+        ]
+    },
+    {
+        "figId": "vis-2945_00",
+        "figFile": "vis-2945_00.png",
+        "title": "EVA: Visual Analytics to Identify Fraudulent Events",
+        "caption": "Fig. 1. Screenshot of EVA (Event detection with Visual Analytics). (A.1, A.2) Temporal Views: a filter was applied in (A.2) to the period from January 2014 until April 2014. (B) Score Construction View: each line represents a transaction and its scores. (C) Amount vs Overall Score Scatterplot. (D.1, D.2) Ranks of accounts that received the highest amounts of money from the selected account and accounts that received the highest number of transactions from the selected account. (E) Accounts Selector: bars shows amount of transactions from each account. (F) Dynamic Table of raw transaction data. In all views, elements that represents suspicious data are highlighted in red.",
+        "viewIds": [
+            "vis-2945_00_0",
+            "vis-2945_00_1",
+            "vis-2945_00_2",
+            "vis-2945_00_3",
+            "vis-2945_00_4",
+            "vis-2945_00_5"
+        ]
+    },
+    {
+        "figId": "vis-2951_00",
+        "figFile": "vis-2951_00.png",
+        "title": "Analyzing the Training Processes of Deep Generative Models",
+        "caption": "Fig. 1. DGMTracker, a visual analytics tool that helps experts understand and diagnose the training processes of deep generative models (DGMs): (a) the loss changes; (b) the data flow visualization to illustrate how data flows through a DGM and disclose how other neurons influence the output of the neuron of interest; (c) visualization of the training dynamics (e.g., activation changes).",
+        "viewIds": [
+            "vis-2951_00_0",
+            "vis-2951_00_1",
+            "vis-2951_00_2"
+        ]
+    },
+    {
+        "figId": "vis-2952_00",
+        "figFile": "vis-2952_00.png",
+        "title": "Podium: Ranking Data Using Mixed-Initiative Visual Analytics",
+        "caption": "Fig. 1: The Podium interface contains two primary views: (a) the main table, which displays each data point as a row in the table and each attribute as a column; and (b) the control panel, which has controls for the visual encodings in the table, attribute weights, and the underlying Ranking SVM model. The callout box (c) shows the Relative Rank column, which displays the current relative position of the rows used to train the model as well as the previous user-defined relative rank. The interface is described in detail in Section 4.1.",
+        "viewIds": [
+            "vis-2952_00_0",
+            "vis-2952_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2954_00",
+        "figFile": "vis-2954_00.png",
+        "title": "Sequence Synopsis: Optimize Visual Summary of Temporal Event Data",
+        "caption": "Fig. 1. A screenshot of the proposed visual analytics system for event sequence data exploration. The system contains an overview (A) which shows a set of sequential patterns that can best summarize the entire dataset based on the Minimum Description Length (MDL) principle. It also supports level-of-detail exploration (A.0 \u2192 A.1). A tabular display (B) shows the detailed information of the sequences linked with the summary view. Two panels (C and D) support data filtering. The event filter (C) shows the co-occurrence of events with a focus event at the center and allows users to select a set of highly correlated events. The sequence filter (D) supports sequence filtering based on their attribute values. The usage scenario in this figure is described in Section. 6.",
+        "viewIds": [
+            "vis-2954_00_0",
+            "vis-2954_00_1",
+            "vis-2954_00_2"
+        ]
+    },
+    {
+        "figId": "vis-2955_00",
+        "figFile": "vis-2955_00.png",
+        "title": "Clustervision: Visual Supervision of Unsupervised Clustering",
+        "caption": "Fig. 1. An overview of Clustervision on a dataset describing 400 paintings by the \u201cJoy of Painting\u201d artist Bob Ross. (A) Ranked List of Clustering Results shows 15 different clustering results that are sorted by the aggregated quality measures; (B) Projection shows a selected clustering result (highlighted in yellow in (A)) on a projection of data points colored according to corresponding clusters; (C) Parallel Trends show the trends of feature values of data points within corresponding clusters in areas across parallel coordinates. Cluster 1 (Green Color) is highlighted; (D) Cluster Detail shows quality measures of a selected individual cluster (Cluster 1); (E) Data Point shows the feature value distribution of the selected cluster as well as the selected data point (Data Point 372 within Cluster 2).",
+        "viewIds": [
+            "vis-2955_00_0",
+            "vis-2955_00_1",
+            "vis-2955_00_2",
+            "vis-2955_00_3",
+            "vis-2955_00_4"
+        ]
+    },
+    {
+        "figId": "vis-2956_00",
+        "figFile": "vis-2956_00.png",
+        "title": "PhenoLines: Phenotype Comparison Visualizations for Disease Subtyping via Topic Models",
+        "caption": "Fig. 1. PhenoLines facilitates the visual analysis of topics that describe disease symptoms, in support of topic model optimization and characterization. Hierarchical relationships, temporal trends, correlated measures, and rank-ordered lists enable for comparisons within and between topics. The interface includes (A) Settings Panel, (B) Detail Panel, (C) Topics Panel, and (D) Search Panel.",
+        "viewIds": [
+            "vis-2956_00_0",
+            "vis-2956_00_1",
+            "vis-2956_00_2"
+        ]
+    },
+    {
+        "figId": "vis-2957_00",
+        "figFile": "vis-2957_00.png",
+        "title": "A Utility-Aware Visual Approach for Anonymizing Multi-Attribute Tabular Data",
+        "caption": "Fig. 1. Our utility-aware visual data-anonymizing process follows (a) a 5-step pipeline and is facilitated with two main visualization components: (b) utility preservation degree matrix (UPD-Matrix) and (c) privacy exposure risk tree (PER-Tree). The PER-Tree helps our users identify privacy issues in the underlying data and provides interactions to address the detected privacy issues. The UPD-Matrix presents the difference between the processed data and the original data. Users can use the chart to examine how utility of data changes during the anonymization process.",
+        "viewIds": [
+            "vis-2957_00_0",
+            "vis-2957_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2958_00",
+        "figFile": "vis-2958_00.png",
+        "title": "TreePOD: Sensitivity-Aware Selection of Pareto-Optimal Decision Trees",
+        "caption": "Figure 1. Selection of decision trees explaining marital status in the UCI Census Income 1994 dataset [21]. (a) Candidate trees are generated by sampling the parameters of decision tree algorithms. Linked visualizations guide the selection from this set by providing (b) a summary of tree candidates and parameter variations, (c) a sensitivity-aware overview of the trade-off between the conflicting objectives accuracy and number of nodes, (d) a qualitative comparison of Pareto-optimal trees, and (e) details of a selected decision tree. (f) Applying controlled parameter variations to every tree conveys the effect of parameter changes on tree characteristics, e.g., how rounding of decision boundaries affects accuracy (g). Users can extend the set of candidate trees at any time, (h) and validate trees based on data using linked views.",
+        "viewIds": [
+            "vis-2958_00_0",
+            "vis-2958_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2964_00",
+        "figFile": "vis-2964_00.png",
+        "title": "Dynamic Influence Networks for Rule-Based Models",
+        "caption": "Fig. 1. A screenshot of the DIN-Viz application for analyzing the dynamics of a rule-based model of a protein-protein interaction network (i.e., a Dynamic Influence Network). Our approach emphasizes the influence rules have on each other and enables users to analyze the dynamics of these influences as they change over time. The left panel shows a network of interconnected rules at a specific time step. The right panel provides a global overview of the system as well as detailed information about selected rules.",
+        "viewIds": [
+            "vis-2964_00_0",
+            "vis-2964_00_1"
+        ]
+    },
+    {
+        "figId": "vis-2965_03",
+        "figFile": "vis-2965_03.png",
+        "title": "EventThread: Visual Summarization and Stage Analysis of Event Sequence Data",
+        "caption": "Fig. 4. The EventThread system contains six interactively coordinated views, including (1) a threads view, (2) an event flow view, (3) an entity list view, (4) an event list view, (5) a thread list view and (6) a global overview. The clustering level of threads can be adjusted through (a) the cluster slider. Users can choose to display and hide stage phases via (b) the stage slider, and (c) domain-specific event types. Entity proportions of latent stage categories and threads can be revealed by (d) adding backgrounds. Event description can be obtained via (g) informative tooltips. Other useful techniques for analysis are also available, including (e) zooming in on the timeline and (f) brushing components across specific stages.",
+        "viewIds": [
+            "vis-2965_03_0",
+            "vis-2965_03_1",
+            "vis-2965_03_2",
+            "vis-2965_03_3"
+        ]
+    },
+    {
+        "figId": "vis-2966_00",
+        "figFile": "vis-2966_00.png",
+        "title": "CRICTO: Supporting Sensemaking through Crowdsourced Information Schematization",
+        "caption": "Fig. 1. CRICTO (CRowdsourcing Information sChematization TOol): a crowdsourcing visual analytics environment for sensemaking of text data. (a) Document view. (b) Graph view. (c) Map view. (d) Timeline view. (e) Scratch pad. (f) Bar chart.",
+        "viewIds": [
+            "vis-2966_00_0",
+            "vis-2966_00_1",
+            "vis-2966_00_2",
+            "vis-2966_00_3"
+        ]
+    },
+    {
+        "figId": "vis-2967_03",
+        "figFile": "vis-2967_03.png",
+        "title": "The y of it Matters, Even for Storyline Visualization",
+        "caption": "Figure 2: In this screenshot of the storyline tool used in our design study the user has zoomed in on a particular day, \ufb01ltered out some employees, based on type, and selected a bundle of individuals during lunch time. The map shows where they left from (GASTech) and where they went to (a cafe to the northwest). Frame A (Breadcrumbs): Our tool lets the user explore the data at different time granularities. The breadcrumbs show what time ranges the user has zoomed into. Frame B (Controls): The user can change the selection, the visible storylines, and the time granularity using the controls toolbar. Frame C (Storyline Visualization): Entities\u2019 similarity over time are shown with the storyline visualization. In this view, the aesthetic design alternative is shown. When the layered design alternative is used, it replaces this view but the remainder of the interface remains the same. Frame D (Map): The locations and trajectories of individuals are plotted on the map to provide geospatial context. Frame E (Entities): The user can select items on the map, storyline visualization, entities list, or legend. Selection is linked across all of these views. Frame F (Legend): This shows the breakdown of visible entities by employment type, and shows the relationship between the storyline color and the employment type.",
+        "viewIds": [
+            "vis-2967_03_0",
+            "vis-2967_03_1"
+        ]
+    },
+    {
+        "figId": "vis-2969_06",
+        "figFile": "vis-2969_06.png",
+        "title": "Interactive Visual Alignment of Medieval Text Versions",
+        "caption": "Figure 6: Usage scenarios of our visual analytics system.",
+        "viewIds": [
+            "vis-2969_06_0",
+            "vis-2969_06_1",
+            "vis-2969_06_2"
+        ]
+    },
+    {
+        "figId": "vis-2970_01",
+        "figFile": "vis-2970_01.png",
+        "title": "Visualizing Real-Time Strategy Games: The Example of StarCraft II",
+        "caption": "Figure 2: Left and right are the status and the battle views in the presented visualization system, respectively. When users select a time span in the status view, the system would switch to the battle view for the examination of offensive and defensive strategies. Color shadings and arrows are used to depict the movements of armies. (a) The status view shows the relative economic strengths of two nations over time. (b) The build order indicates the time that the techniques and buildings are constructed. (c) The death ThemeRiver shows the number of deaths in battles over time. (d) The status bar indicates the transfer function and the related information in the game play. (e) The small map conveys the distributions of armies and buildings. (f) The map is used to reveal geographic features and show the process of a battle. (g) The line charts show the strengths of armies in each type. (h) The context view of the map and the current techniques owned by the two nations.",
+        "viewIds": [
+            "vis-2970_01_0",
+            "vis-2970_01_1",
+            "vis-2970_01_2",
+            "vis-2970_01_3",
+            "vis-2970_01_4",
+            "vis-2970_01_5"
+        ]
+    },
+    {
+        "figId": "vis-2972_05",
+        "figFile": "vis-2972_05.png",
+        "title": "E-Map: A Visual Analytics Approach for Exploring Significant Event Evolutions in Social Media",
+        "caption": "Figure 6: Spatial temporal visual analytics system of E-Map, including (a) a map view, (b) a temporal view, (c) a message panel, (d) a key player panel, (e) a detailed keyword relationship view. and (f) a sequence view. (g) Time slicing and animation are provided for analyzing event evolution. In this case, \ufb01ve event stages are identi\ufb01ed and each stage has its key players. We can analyze how they affect and shape the event development.",
+        "viewIds": [
+            "vis-2972_05_0",
+            "vis-2972_05_1",
+            "vis-2972_05_2",
+            "vis-2972_05_3"
+        ]
+    },
+    {
+        "figId": "vis-2973_01",
+        "figFile": "vis-2973_01.png",
+        "title": "A Visual Analytics System for Optimizing Communications in Massively Parallel Applications",
+        "caption": "Figure 2: The user interface of the system, which contains three views: (a) the communication view, (b) the metric rank view, and (c) the detailed route view. This example shows the communications obtained by running the MPI Send/Recv benchmark from the Intel MPI Benchmark suite (IMB) [41] with 32 nodes, 16 cores on BG/Q. (a) shows an overview of communications between compute nodes. The route color is used for the message size in this example. (b) shows ranks and values of the selected metric from a drop-down list on the top. Here the message size on routes is selected. (c) is used for displaying the details of the routes selected in the other views.",
+        "viewIds": [
+            "vis-2973_01_0",
+            "vis-2973_01_1",
+            "vis-2973_01_2"
+        ]
+    },
+    {
+        "figId": "vis-2974_00",
+        "figFile": "vis-2974_00.png",
+        "title": "Visual Causality Analysis Made Practical",
+        "caption": "Fig. 1 The Causal Structure Investigator interface (a) Control panel for reading in data and setting inference parameters. (b) Interactive path diagrams for causal network visualization. (c) Parallel coordinates view for exploring data partitions. (d) Statistic coefficients tables of regressions associated with the causal model. (e) Data subdivision control, where a subdivision can be saved as a clickable tag. (f) Model diagnostic controls and the model heatmap, where users can examine learned models by clicking each tile colored by model scores.",
+        "viewIds": [
+            "vis-2974_00_0",
+            "vis-2974_00_1",
+            "vis-2974_00_2"
+        ]
+    },
+    {
+        "figId": "vis-2975_00",
+        "figFile": "vis-2975_00.png",
+        "title": "CrystalBall: A Visual Analytic System for Future Event Discovery and Analysis from Social Media Data",
+        "caption": "Figure 1: CrystalBall interface. The interface is comprised of four main views: A) Event Calendar View, B) Map View, C) Word Cloud View, and D) Social Network view. The E) Tweet panel is shown on demand.",
+        "viewIds": [
+            "vis-2975_00_0",
+            "vis-2975_00_1",
+            "vis-2975_00_2",
+            "vis-2975_00_3"
+        ]
+    },
+    {
+        "figId": "vis-2979_00",
+        "figFile": "vis-2979_00.png",
+        "title": "Understanding Hidden Memories of Recurrent Neural Networks",
+        "caption": "Figure 1: The interface of RNNVis. The control panel (A) shows parameter settings of an RNN and allows users to adjust visualization style. The main view (B-D) contains glyph-based sentence visualization (B), memory chips visualization for hidden state clusters (C), and word clouds visualization for word clusters (D). The detail view (E) shows the distributions of models responses to selected word \u201cof\u201d and interpretations of selected hidden units.",
+        "viewIds": [
+            "vis-2979_00_0",
+            "vis-2979_00_1",
+            "vis-2979_00_2",
+            "vis-2979_00_3",
+            "vis-2979_00_4"
+        ]
+    },
+    {
+        "figId": "vis-2980_00",
+        "figFile": "vis-2980_00.png",
+        "title": "QSAnglyzer: Visual Analytics for Prismatic Analysis of Question Answering System Evaluations",
+        "caption": "Figure 1: The QSAnglyzer interface consists of three basic panels: \u2018Evaluations\u2019 (top left), \u2018Question Space Angles\u2019 (top right), and \u2018Question Table\u2019 (bottom) panels, following the well-known visualization mantra: \u201cOverview \ufb01rst, zoom and \ufb01lter, details on demand.",
+        "viewIds": [
+            "vis-2980_00_0"
+        ]
+    },
+    {
+        "figId": "vis-3060_00",
+        "figFile": "vis-3060_00.png",
+        "title": "iForest: Interpreting Random Forests via Visual Analytics",
+        "caption": "Figure 1. Using iForest to interpret random forests with Titanic dataset: (A) a Data Overview displaying an overview of how random forests classify data; (B) a Feature View depicting the relationships between features and predictions from various perspectives; (C) a Decision Path View revealing the underlying working mechanisms by enabling users to audit and compare different decision paths. iForest allows users to interpret random forests from various perspectives. For example, users can compare the negative decision paths (c1) against the positive ones (c2) to examine the most significant reasons for generating different results.",
+        "viewIds": [
+            "vis-3060_00_0",
+            "vis-3060_00_1",
+            "vis-3060_00_2",
+            "vis-3060_00_3",
+            "vis-3060_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3061_00",
+        "figFile": "vis-3061_00.png",
+        "title": "Clustrophile 2: Guided Visual Clustering Analysis",
+        "caption": "Fig. 1: Clustrophile 2 is an interactive tool for guided exploratory clustering analysis. Its interface includes two collapsible sidebars (a, e) and a main view where users can perform operations on the data. Clustrophile 2 tightly couples b) a dynamic data table that supports a rich set of \ufb01ltering interactions and statistics and c) multiple resizable Clustering Views, which can be used to work simultaneously on different clustering instances. Each Clustering View provides several ways to guide users during their analysis, such as d) the Clustering Tour.",
+        "viewIds": [
+            "vis-3061_00_0",
+            "vis-3061_00_1",
+            "vis-3061_00_2",
+            "vis-3061_00_3",
+            "vis-3061_00_4",
+            "vis-3061_00_5"
+        ]
+    },
+    {
+        "figId": "vis-3062_00",
+        "figFile": "vis-3062_00.png",
+        "title": "Manifold: A Model-Agnostic Framework for Interpretation and Diagnosis of Machine Learning Models",
+        "caption": "Fig. 1. Manifold consists of two interactive dialogs: a model comparison overview (1) that provides a visual comparison between model pairs using a small multiple design, and a local feature interpreter view (2) that reveals a feature-wise comparison between user-de\ufb01ned subsets (c) and provides a similarity measure (b) of feature distributions. The user can sort based on multiple metrics (a) to identify the most discriminative features among different subsets, i.e., sort based on the selected subset in red (2) or a speci\ufb01c class such as C1 (3).",
+        "viewIds": [
+            "vis-3062_00_0",
+            "vis-3062_00_1"
+        ]
+    },
+    {
+        "figId": "vis-3063_03",
+        "figFile": "vis-3063_03.png",
+        "title": "GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation",
+        "caption": "Fig. 4. The GAN Lab interface integrates multiple views: A. The model overview graph summarizes a GAN model\u2019s structure as a graph, with nodes representing the submodels, and the data that flow through the graph; B. The layered distributions view overlays magnified versions of the graph\u2019s component visualizations, to help users more easily compare and understand their relationships; C. The metrics view presents line charts that track metric values over the training process. Users start the model training by clicking the play button on menu bar. The three views are dynamically updated, as training progresses. In this example, real samples are drawn from two Gaussian distributions, and the generator, consisting of a single hidden layer with 14 neurons, has created samples whose distribution is quite similar to that of the real samples.",
+        "viewIds": [
+            "vis-3063_03_0",
+            "vis-3063_03_1",
+            "vis-3063_03_2"
+        ]
+    },
+    {
+        "figId": "vis-3064_00",
+        "figFile": "vis-3064_00.png",
+        "title": "Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data",
+        "caption": "Fig. 1. The visualization interface for a mobile phone location dataset. (a) A control view. (b) A map view supporting the presentation of OD flows and an interactive definition of flow wheels to focus on local areas of interest. (c) A word embedding view to characterize interactions of OD flows, in which each point corresponds to an OD flow. (d) A matrix view showing continuous trajectory segments, and allowing users to interactively highlight flows of interest. (e-g) present intermediate information in the course of sampling, guiding users to achieve a desired visual abstraction of large scale OD movements.",
+        "viewIds": [
+            "vis-3064_00_0",
+            "vis-3064_00_1",
+            "vis-3064_00_2",
+            "vis-3064_00_3",
+            "vis-3064_00_4",
+            "vis-3064_00_5"
+        ]
+    },
+    {
+        "figId": "vis-3065_00",
+        "figFile": "vis-3065_00.png",
+        "title": "DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks",
+        "caption": "Fig. 1. DQNViz: (a) the Statistics view presents the overall training statistics with line charts and stacked area charts; (b) the Epoch view shows epoch-level statistics with pie charts and stacked bar charts; (c) the Trajectory view reveals the movement and reward patterns of the DQN agent in different episodes; (d) the Segment view reveals what the agent really sees from a selected segment.",
+        "viewIds": [
+            "vis-3065_00_0",
+            "vis-3065_00_1",
+            "vis-3065_00_2",
+            "vis-3065_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3067_04",
+        "figFile": "vis-3067_04.png",
+        "title": "Visual Analytics for Topic Model Optimization based on User-Steerable Speculative Execution",
+        "caption": "Fig. 3: The visual analytics workspace. New documents are added to the document-log on the right-hand side before they are shown in the topic-tree, the central component of our workspace. It shows both the model space and the algorithms decision making process, as well as topic hierarchies, keywords and uncertainties. The model quality timeline tracks the metric development over time and forecasts the effects of speculative executions (see Sect. 5). A control panel on the left hand side ranks optimizations based on their effectiveness for the current model and enables steering the speculative execution: Optimizations can be viewed , accepted and rejected . The control panel on top allows pausing the modeling process , setting its speed , and manually triggering a speculative execution . A color map shows which document group the nodes in the tree belong to. Unclustered nodes that have not yet been added to the model are listed and can be added via drag and drop.",
+        "viewIds": [
+            "vis-3067_04_0",
+            "vis-3067_04_1"
+        ]
+    },
+    {
+        "figId": "vis-3069_00",
+        "figFile": "vis-3069_00.png",
+        "title": "RuleMatrix: Visualizing and Understanding Classifiers with Rules",
+        "caption": "Fig. 1. Understanding the behavior of a trained neural network using the explanatory visual interface of RuleMatrix. The user uses the control panel (A) to specify the detail information to visualize (e.g., dataset, level of detail, rule filters). The rule-based representation is visualized as a matrix (B), where each row represents a rule, and each column is a feature used in the rules. The user can also filter the data or use a customized input in the data filter (C) and navigate the filtered dataset in the data table (D).",
+        "viewIds": [
+            "vis-3069_00_0",
+            "vis-3069_00_1",
+            "vis-3069_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3070_00",
+        "figFile": "vis-3070_00.png",
+        "title": "BitExTract: Interactive Visualization for Extracting Bitcoin Exchange Intelligence",
+        "caption": "Fig. 1. With BitExTract, we can observe the evolution of transaction and connection patterns of Bitcoin exchanges from different perspectives A) The comparison view is designed to be highly interactive to compare multiple exchanges\u2019 different indices. B) The exchanges list panel reveals Bitcoin exchanges\u2019 historical transaction volume. C) The massive sequence view (MSV) demonstrates the overview of Bitcoin exchange market. Users can focus on one exchange to specifically exam its holistic connections. D) The connection view illustrates the connection details intuitively with a node-link design which can facilitate the recognition of unique patterns.",
+        "viewIds": [
+            "vis-3070_00_0",
+            "vis-3070_00_1",
+            "vis-3070_00_2",
+            "vis-3070_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3071_03",
+        "figFile": "vis-3071_03.png",
+        "title": "EnsembleLens: Ensemble-based Visual Exploration of Anomaly Detection Algorithms with Multidimensional Data",
+        "caption": "Fig. 4. The EnsembleLens system contains six interactively coordinated views: (i) a detector view, (ii) a feature subspace view, (iii) an inspection view (global inspection view & correlation matrix view), (iv) a ranking view, (v) a validation view and (vi) a raw data table. Users can change the detection mode in (a) and provide their feedback by using (b) after they label the detected anomalous points. The progress of exploration can be reflected by (d) the real-time combination result. Raw data description can be obtained via informative tooltips. (c) is the color schemes used in different views.",
+        "viewIds": [
+            "vis-3071_03_0",
+            "vis-3071_03_1",
+            "vis-3071_03_2",
+            "vis-3071_03_3"
+        ]
+    },
+    {
+        "figId": "vis-3072_00",
+        "figFile": "vis-3072_00.png",
+        "title": "VIBR: Visualizing Bipartite Relations at Scale with the Minimum Description Length Principle",
+        "caption": "Fig. 1. V I B R interface. First analyst selects the data using the filters D and computes a summarization A filtered by the density and the sizes of the clusters B . From the adjacency list A she observes different fault patterns (a and b). Splitting the summary view into small multiples 1 , several unique groups of faults (e.g. c) only occur in vehicles with a particular engine code. Next level of detail is shown by bringing up a matrix view for a particular block 2 . Labels are always provided in the legend bar with text search G . The node attribute value distributions and detail node information are displayed in E and table F respectively.",
+        "viewIds": [
+            "vis-3072_00_0"
+        ]
+    },
+    {
+        "figId": "vis-3074_00",
+        "figFile": "vis-3074_00.png",
+        "title": "An Interactive Method to Improve Crowdsourced Annotations",
+        "caption": "Fig. 1. LabelInspect: (a) the confusion visualization to reveal the confusion degree between different classes; (b) the instance visualization to illustrate the uncertain labels in context; (c) the worker visualization to demonstrate worker reliability; (d) the validation trail to display the number of validated and influenced instances at each validation step; (e) images.",
+        "viewIds": [
+            "vis-3074_00_0",
+            "vis-3074_00_1",
+            "vis-3074_00_2",
+            "vis-3074_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3075_00",
+        "figFile": "vis-3075_00.png",
+        "title": "A Visual Analytics Framework for Spatiotemporal Trade Network Analysis",
+        "caption": "Fig. 1. A visual analytics framework for exploring global trade networks and their relationship to regional instability. The anomaly time series (1) on top displays the time series and anomalies of the trade attributes and stability measures for a selected country. The choropleth view (2) along with the small multiple maps (3) display the first order trade relationships centering on selected countries. The colored bars below each small multiple map show the temporal correlation of the selected trade measure to the stability measure. The clustering view (4) displays the hierarchical clustering for the countries, based on either the triadic similarity or top partner similarity. The groups can also be configured to show the average triad distributions (as (6)) and other measures. The trade diffusion graph (5) displays the propagation effect of anomalies. Connections between the nodes indicate the import dependency from the target node to the source node is larger than a threshold, which can be adjusted using the slider on the right.",
+        "viewIds": [
+            "vis-3075_00_0",
+            "vis-3075_00_1",
+            "vis-3075_00_2",
+            "vis-3075_00_3",
+            "vis-3075_00_4",
+            "vis-3075_00_5"
+        ]
+    },
+    {
+        "figId": "vis-3076_03",
+        "figFile": "vis-3076_03.png",
+        "title": "Visual Progression Analysis of Event Sequence Data",
+        "caption": "Fig. 4. The user interface of ET2 consists of seven coordinated views: (1) query view, (2) sequence view, (3) cluster view, (4) thread view, (5) stage transition view, (6) event overview, and (7) entity list view.",
+        "viewIds": [
+            "vis-3076_03_0",
+            "vis-3076_03_1",
+            "vis-3076_03_2",
+            "vis-3076_03_3",
+            "vis-3076_03_4",
+            "vis-3076_03_5"
+        ]
+    },
+    {
+        "figId": "vis-3080_01",
+        "figFile": "vis-3080_01.png",
+        "title": "Doccurate: A Curation-Based Approach for Clinical Text Visualization",
+        "caption": "Fig. 2. Doccurate\u2019s interface: (A) Control Panel with Demographics (A.1), options to adjust the Timeline\u2019s binning interval and the visible documents types in the Text Panel (A.2), and the complete list of FCs sorted by frequency (A.3); (B) Timeline with breadcrumbs indicating level of detail (B.1), scrollable list of items encompassed by the current level (B.3); items tracks with frequency streams and representative labels (B.5), a dark line marker indicating time of current visible document (B.2) and time axis, featuring a document histogram (B.4); (C) Text Panel, with the double text overview bar and respectivedocument counts at the bottom (C.1), and all visible chart documents (C.2); (D) Curation Panel for a selected FC, with subpanels for the list of codes (D.1), hierarchy adjustment for a selected code (D.2), list of keywords (D.3) and colour/title editing (D.4).",
+        "viewIds": [
+            "vis-3080_01_0"
+        ]
+    },
+    {
+        "figId": "vis-3081_00",
+        "figFile": "vis-3081_00.png",
+        "title": "TPFlow: Progressive Partition and Multidimensional Pattern Extraction for Large-Scale Spatio-Temporal Data Analysis",
+        "caption": "Fig. 1. The user interface of TPFlow. a Tree View starts with a root node (a1) representing the original data and visualizes the overall data partitioning process. Every other node on the tree represents a subset of data. The system supports a steerable and iterative workflow by allowing analysts to directly interact with every node (a2 , a4 , a5 , a6 ). b d Each individual chart visualizes the latent c patterns extracted by our tensor-based model. The analysts select multiple nodes highlighted in different colors on the Tree View (a3 ) to compare the patterns across different subsets of data. One interesting pattern here is that the pink states (d1), located mostly in the northeast region of Germany, perform significantly different from the other states (b1, c1, c2 ). Please refer to the details in Sec. 5.1.",
+        "viewIds": [
+            "vis-3081_00_0",
+            "vis-3081_00_1",
+            "vis-3081_00_2",
+            "vis-3081_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3088_00",
+        "figFile": "vis-3088_00.png",
+        "title": "A Visual Analytics Framework for the Detection of Anomalous Call Stack Trees in High Performance Computing Applications",
+        "caption": "Fig. 1. The interface of our system for anomalous call stack tree (CSTree) detection. (a) The scatter plot shows the projection of our stack2vec embeddings of the CSTrees. Each point in the projection represents a CSTree. (b) Summary structures of the top candidate anomalies from (a). (c) The user can investigate the detailed structure and the anomalous subtrees of a CSTree of interest. (d) The level-of-detail timeline visualization of the selected CSTree shows the temporal pattern of the invocations and the communications between the HPC nodes. (e) The user is able to label the CSTrees of interest after exploration to update the anomaly detection model.",
+        "viewIds": [
+            "vis-3088_00_0",
+            "vis-3088_00_1",
+            "vis-3088_00_2",
+            "vis-3088_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3089_00",
+        "figFile": "vis-3089_00.png",
+        "title": "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records",
+        "caption": "Fig. 1. A screenshot of RetainVis consisting of five areas: (A) Overview shows an overview of all patients (left) and an attribute summary view (right) of patients. (B) Patient Summary shows the summary of the patient cohort built from (A). (C) Patient List shows individual patients in a row of rectangles. In Patient List, users can select a patient of interest to view details in (E) Patient Details. Users can open (D) Patient Editor to conduct a what-if analysis, and (E) Patient Details shows the updated results.",
+        "viewIds": [
+            "vis-3089_00_0",
+            "vis-3089_00_1",
+            "vis-3089_00_2",
+            "vis-3089_00_3",
+            "vis-3089_00_4",
+            "vis-3089_00_5"
+        ]
+    },
+    {
+        "figId": "vis-3090_00",
+        "figFile": "vis-3090_00.png",
+        "title": "Vulnus: Visual Vulnerability Analysis for Network Security",
+        "caption": "Fig. 1: VULNUS dealing with a real network containing 122 nodes, 22 sub-networks and 846 vulnerabilities. Sub-networks are arranged horizontally, using a modified treemap bar chart representation. Each bar represents a sub-network (n1 , n2 , . . .), showing its nodes; both the node size and the bar length are proportional to the total number of vulnerabilities of the element. Bars are sorted by length and while the user is scrolling into the main pane (A), the pane (B) maintains the visual context. The leftmost part of each bar (a) contains nodes with zero vulnerabilities that are represented as squares of fixed dimension. Mouse-hovering a node (b) reveals its CVSS scores and the number of vulnerabilities. Nodes are selectable individually or by sub-network into the main pane and by uniform and statistical intervals of their scores in the selection pane (D). Selected nodes are listed in (C); their vulnerabilities are presented on a frequency plot (E) and filterable by scores (F). Further selections on the frequency plot are listed in (I), allowing for comparing vulnerability scores on a radar diagram (G) or inspecting numerical scores and accessing the CVE reference page (H). The approximated optimal fixing strategy (J) is automatically computed using the attack graph information and VULNUS allows the security manager to interactively simulate the vulnerabilities fixing in order to explore suboptimal variants of the fixing plan.",
+        "viewIds": [
+            "vis-3090_00_0",
+            "vis-3090_00_1",
+            "vis-3090_00_2",
+            "vis-3090_00_3",
+            "vis-3090_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3091_00",
+        "figFile": "vis-3091_00.png",
+        "title": "Situ: Identifying and Explaining Suspicious Behavior in Networks",
+        "caption": "Fig. 1. The IP Detail Page of the Situ system includes a temporal histogram for selecting a time range, horizon graphs for temporal context, bar charts of field distributions for network flows of that IP, and a two-hop communication graph.",
+        "viewIds": [
+            "vis-3091_00_0",
+            "vis-3091_00_1",
+            "vis-3091_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3094_03",
+        "figFile": "vis-3094_03.png",
+        "title": "ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer",
+        "caption": "Fig. 4. System interface. The system comprises two views, namely, a formation view (A) and a display view (G). Formation view contains a confrontation matrix (B), a narrative timeline (E), and two formation flows (F). Display view contains a pitch (H) and a statistical dashborad (I).",
+        "viewIds": [
+            "vis-3094_03_0",
+            "vis-3094_03_1",
+            "vis-3094_03_2",
+            "vis-3094_03_3",
+            "vis-3094_03_4"
+        ]
+    },
+    {
+        "figId": "vis-3097_00",
+        "figFile": "vis-3097_00.png",
+        "title": "Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models",
+        "caption": "Fig. 1. Example ofSeq2Seq-Vis. In the translation view (left), the source sequence\u201cour tool helps to find errors in seq2seq modelsusing visual analysis methods.\u201dis translated into a German sentence. The word\u201cseq2seq\u201dhas correct attention between encoder anddecoder (red highlight) but is not part of the language dictionary. When investigating the encoder neighborhoods (right), the user seesthat\u201cseq2seq\u201dis close to other unknown words\u201c\u3008unk\u3009\u201d. The buttons enable user interactions for deeper analysis.",
+        "viewIds": [
+            "vis-3097_00_0",
+            "vis-3097_00_1"
+        ]
+    },
+    {
+        "figId": "vis-3181_01",
+        "figFile": "vis-3181_01.png",
+        "title": "Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning",
+        "caption": "Fig. 2: A screenshot of our prototype system. The dimensionality reduction (DR) view (a) visualizes a result after DR and clustering. The feature contributions view (b) shows the measures of each feature\u2019s contribution to contrasting each cluster with the others. The feature values of the selected cells in (b) are visualized as histograms, as shown in (c). In (d), we can change the settings for the analysis methods and visualizations. ",
+        "viewIds": [
+            "vis-3181_01_0",
+            "vis-3181_01_1",
+            "vis-3181_01_2"
+        ]
+    },
+    {
+        "figId": "vis-3184_00",
+        "figFile": "vis-3184_00.png",
+        "title": "VASABI: Hierarchical User Profiles for Interactive Visual User Behaviour Analytics",
+        "caption": "Fig. 1. The VASABI interface realises our multifaceted, visual user behaviour analysis approach through hierarchical pro\ufb01les. We concurrently visualise and interrelate: clusters of users based on tasks extracted with a topic-modelling based approach (top-left), user pro\ufb01les with multiple features (top-right) and distribution of sessions over time (middle). Selected sessions (brown brush over temporal histogram) are also highlighted both within the user pro\ufb01les as orange dots and analysed further in the session timeline (bottom). ",
+        "viewIds": [
+            "vis-3184_00_0",
+            "vis-3184_00_1",
+            "vis-3184_00_2",
+            "vis-3184_00_3",
+            "vis-3184_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3186_00",
+        "figFile": "vis-3186_00.png",
+        "title": "Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data",
+        "caption": "Fig. 1. Multiple coordinated views in Facetto for interactive and hierarchical phenotype analysis of 36-channel image data (image resolution: 31, 616 \u00d7 22, 272 pixels; raw image size: 49.8 GB). (a) Phenotype tree resulting from hierarchical data \ufb01ltering and cell calling. (b) Multi-channel visualization of high-resolution CyCIF image data showing the current clustering and classi\ufb01cation results. (c) Ridgeplot of high-dimensional feature data to steer visual analysis and data \ufb01ltering. (d) UMAP projection of the sampled feature space of cells, colored by cluster ID. (e) Scatterplots showing feature value correlations. (f) Table view of all cells and their features. ",
+        "viewIds": [
+            "vis-3186_00_0",
+            "vis-3186_00_1",
+            "vis-3186_00_2",
+            "vis-3186_00_3",
+            "vis-3186_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3187_00",
+        "figFile": "vis-3187_00.png",
+        "title": "ProtoSteer: Steering Deep Sequence Model with Prototypes",
+        "caption": "Fig. 1: The ProtoSteer interface for interactively re\ufb01ning prototype sequence network. The prototype overview (A) presents a list of prototype sequences and their statistics on datasets. The sequence detail view (B) displays the neighboring sequences of selected prototypes. The user can interactively add, delete, and revise prototypes. All edits are traceable in the editing history (C), where the user can easily compare or revert changes. For advanced analysis, the sequence encoder view (D) projects prototypes as trajectories with a contour map showing its neighboring hidden state distribution. ",
+        "viewIds": [
+            "vis-3187_00_0",
+            "vis-3187_00_1"
+        ]
+    },
+    {
+        "figId": "vis-3191_00",
+        "figFile": "vis-3191_00.png",
+        "title": "CourtTime: Generating Actionable Insights into Tennis Matches Using Visual Analytics",
+        "caption": "Fig. 1. CourtTime visual analytics system. CourtTime provides an overview of the match score (A) and lets the user switch seamlessly between high-level overview of played points (B) and a detailed view on the shot level (C) that displays the serve, return, and last three shots in the point from each player. To facilitate access to the analysis, we provide a rich set of different spatio-temporal encodings, as well as ordering and aggregation capabilities (not shown). An interconnected \ufb01lter list (D) provides a multi-faceted means to effectively drill-down to speci\ufb01c points. We enable shot-speci\ufb01c, spatial feature-driven re-orderings (E) to aid in \ufb01nding shot patterns. A 1-D Space-Time Chart displaying the left/right dimension of a point over time is shown in the inset in (B). Solid circles are forehands and hollow circles are backhands. The inset in (C) shows a second serve by player one up the middle. Clicking on a shot or point opens a new window with a video playing the selected situation. ",
+        "viewIds": [
+            "vis-3191_00_0",
+            "vis-3191_00_1",
+            "vis-3191_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3192_04",
+        "figFile": "vis-3192_04.png",
+        "title": "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis",
+        "caption": "Fig. 5. The system interface. The donut charts and the pie charts encode the scoring rates and utilization rates, respectively. (A) is the player view which displays all matches of Ito Mima and her opponents. It provides navigation of matches. (B) is the tactic view which displays the tactics speci\ufb01ed by stroke placement at the serve phase. It provides navigation of tactics. (C) is the simulation view which is under the exploration mode. It contains (D), the exploration component for implementation of adjustments and (E), the evaluation component for evaluation of adjustments. (D) displays all of the adjustment options speci\ufb01ed by stroke placement and stroke technique. (E) displays the three optimum strategies generated by the system. ",
+        "viewIds": [
+            "vis-3192_04_0",
+            "vis-3192_04_1",
+            "vis-3192_04_2",
+            "vis-3192_04_3"
+        ]
+    },
+    {
+        "figId": "vis-3197_00",
+        "figFile": "vis-3197_00.png",
+        "title": "PlanningVis: A Visual Analytics Approach to Production Planning in Smart Factories",
+        "caption": "Fig. 1. PlanningVis supports interactive exploration, comparison and optimization of production plans. (a) The control panel enables interactively building the con\ufb01guration data of the planning algorithm. (b) The plan overview summarizes each plan and their differences. (c) The product view reveals the distribution of all the products (c1 ) and presents various properties of the selected products (c2 ). (d) The production detail view displays the dependency between products (d1 , d2 ) and the daily production details in related plants (d3 , d4 ). ",
+        "viewIds": [
+            "vis-3197_00_0",
+            "vis-3197_00_1",
+            "vis-3197_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3198_03",
+        "figFile": "vis-3198_03.png",
+        "title": "Visual Analytics for Electromagnetic Situation Awareness in Radio Monitoring and Management",
+        "caption": "Figure 4. System interface consists of a control panel (a) and two functional modules. The monitoring module provides a situation monitoring view (b) and a signal monitoring view (c) to help users achieve situation perception. The situation monitoring view (b) presents an overview of the current electromagnetic situation and its recent change trend. The signal monitoring view (c) uses an STF diagram with a river visualization mode to depict the signal distribution in time and frequency and the time-varying patterns of the signals\u2019 characteristics. Its visual encoding is illustrated in (d). ",
+        "viewIds": [
+            "vis-3198_03_0",
+            "vis-3198_03_1"
+        ]
+    },
+    {
+        "figId": "vis-3199_00",
+        "figFile": "vis-3199_00.png",
+        "title": "sPortfolio: Stratified Visual Analysis of Stock Portfolios",
+        "caption": "Fig. 1. With sPortfolio, we can observe the management and strategy of stock portfolios from different perspectives. A) The portfolio cluster view gives an overview of all stock portfolios within a given time-period. B) The factor correlation view reveals the return correlations of risk factors, which can be used to validate the effectiveness of the factors in a multi-factor model. C) The comparison view is designed to compare the risk preference and sector position of portfolios, which reveals their strategies. D) The individual portfolio view illustrates the stock holdings and trading style of a speci\ufb01c portfolio. ",
+        "viewIds": [
+            "vis-3199_00_0",
+            "vis-3199_00_1",
+            "vis-3199_00_2",
+            "vis-3199_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3202_00",
+        "figFile": "vis-3202_00.png",
+        "title": "Ablate, Variate, and Contemplate: Visual Analytics for Discovering Neural Architectures",
+        "caption": "Fig. 1: A screenshot of the REMAP system. In the Model Overview, section A, a visual overview of the set of sampled models is shown. Darkness of circles encodes performance of the models, and radius encodes the number of parameters. In the Model Drawer, section B, users can save models during their exploration for comparison or to return to later. In section C, four tabs help the user explore the model space and generate new models. The Generate Models tab, currently selected, allows for users to create new models via ablations, variations, or handcrafted templates. ",
+        "viewIds": [
+            "vis-3202_00_0",
+            "vis-3202_00_1"
+        ]
+    },
+    {
+        "figId": "vis-3203_00",
+        "figFile": "vis-3203_00.png",
+        "title": "VASSL: A Visual Analytics Toolkit for Social Spambot Labeling",
+        "caption": "Fig. 1. The default layout of the front-end of VASSL: A) the timeline view, B) the dimensionality reduction view, C) the user/tweet detail views, D) & E) the topics view (clustering / words), F) the feature explorer view, G) the general control panel, H) the labeling panel, and I) the control panels for all the views (the opened control panel in the \ufb01gure is for topics clustering view). ",
+        "viewIds": [
+            "vis-3203_00_0",
+            "vis-3203_00_1",
+            "vis-3203_00_2",
+            "vis-3203_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3205_00",
+        "figFile": "vis-3205_00.png",
+        "title": "EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos",
+        "caption": "Fig. 1: Our visualization system supports emotion analysis across three modalities (i.e., face, text, and audio) at different levels of details. The video view (a) summarizes each video in the collection and enables quick identi\ufb01cation of videos of interest. The channel coherence view (b) shows emotion coherence of the three modalities at the sentence level and provides extracted features for channel exploration. The detail view (c) supports detail exploration for a selected sentence with some highlighted features and transition points. The sentence clustering view (d) provides a summary of the video and reveals the temporal patterns of emotion information. The word view (e) enables ef\ufb01cient quantitative analysis at the word level in the video transcript. ",
+        "viewIds": [
+            "vis-3205_00_0",
+            "vis-3205_00_1",
+            "vis-3205_00_2",
+            "vis-3205_00_3",
+            "vis-3205_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3206_00",
+        "figFile": "vis-3206_00.png",
+        "title": "Motion Browser: Visualizing and Understanding Complex Upper Limb Movement Under Obstetrical Brachial Plexus Injuries",
+        "caption": "Fig. 1. M OTION B ROWSER interface showing how to analyze patients\u2019 limb muscles and movement with data collected from muscle sensors, motion sensors, and video recordings.  A Muscle Bundle Comparison View displays the muscle signals of affected and unaffected limbs side by side. Statistics from motion sensors (a1 ) and stacked muscle activities (a2 ) are shown. Visual highlighting technique allows the extraction of the relatively stronger muscle activities on both sides (a3 ).                                                                                                    B Time Series View on raw muscle EMG signals. Each view visualizes the signals from an individual motion and users can align the x- and y-axis of all views (b1 ).  C Video Inspection View displays the cut scenes and \ufb01ltered signals from  A and allows the export to the presentation slide show (c1 ). ",
+        "viewIds": [
+            "vis-3206_00_0",
+            "vis-3206_00_1",
+            "vis-3206_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3210_00",
+        "figFile": "vis-3210_00.png",
+        "title": "Explaining Vulnerabilities to Adversarial Machine Learning through Visual Analytics",
+        "caption": "Fig. 1. Reliability attack on spam \ufb01lters. (1) Poisoning instance #40 has the largest impact on the recall value, which is (2) also depicted in the model overview. (3) There is heavy overlap among instances in the two classes as well the poisoning instances. (4) Instance #40 has been successfully attacked causing a number of innocent instances to have their labels \ufb02ipped. (5) The \ufb02ipped instances are very close to the decision boundary. (6) On the feature of words \u201cwill\u201d and \u201cemail\u201d, the variances of poisoning instances are large. (7) A sub-optimal target (instance #80) has less impact on the recall value, but the cost of insertions is 40% lower than that of instance #40. ",
+        "viewIds": [
+            "vis-3210_00_0",
+            "vis-3210_00_1",
+            "vis-3210_00_2",
+            "vis-3210_00_3",
+            "vis-3210_00_4",
+            "vis-3210_00_5"
+        ]
+    },
+    {
+        "figId": "vis-3211_02",
+        "figFile": "vis-3211_02.png",
+        "title": "FairSight: Visual Analytics for Fairness in Decision Making",
+        "caption": "Fig. 2. The work\ufb02ow of fair decision making in FairSight. (a) It starts with setting up inputs including the sensitive attribute and protected group. (b) After running a model, the ranking outcome and measures are represented in Ranking View. (c) Global Inspection View visualizes the two spaces and the mapping process of Individual and Group fairness provided in the separate tap. (d) When an individual is hovered, Local Inspection View provides the instance- and group-level exploration. (e) In Feature Inspection View, users can investigate the feature distortion and feature perturbation to identify features as the possible source of bias. (f) All generated ranking outcomes are listed and plotted in the Ranking List View. ",
+        "viewIds": [
+            "vis-3211_02_0",
+            "vis-3211_02_1",
+            "vis-3211_02_2",
+            "vis-3211_02_3",
+            "vis-3211_02_4"
+        ]
+    },
+    {
+        "figId": "vis-3212_00",
+        "figFile": "vis-3212_00.png",
+        "title": "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations",
+        "caption": "Fig. 1. With Summit, users can scalably summarize and interactively interpret deep neural networks by visualizing what features a network detects and how they are related. In this example, INCEPTIONV1 accurately classi\ufb01es images of tench (yellow-brown \ufb01sh). However, SUMMIT reveals surprising associations in the network (e.g., using parts of people) that contribute to its \ufb01nal outcome: the \u201ctench\u201d prediction is dependent on an intermediate \u201chands holding \ufb01sh\u201d feature (right callout), which is in\ufb02uenced by lower-level features like \u201cscales,\u201d \u201cperson,\u201d and \u201c\ufb01sh\u201d. (A) Embedding View summarizes all classes\u2019 aggregated activations using dimensionality reduction. (B) Class Sidebar enables users to search, sort, and compare all classes within a model. (C) Attribution Graph View visualizes highly activated neurons as vertices (\u201cscales,\u201d \u201c\ufb01sh\u201d) and their most in\ufb02uential connections as edges (dashed purple edges). ",
+        "viewIds": [
+            "vis-3212_00_0",
+            "vis-3212_00_1",
+            "vis-3212_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3213_03",
+        "figFile": "vis-3213_03.png",
+        "title": "CloudDet: Interactive Visual Analysis of Anomalous Performances in Cloud Computing Systems",
+        "caption": "Fig. 4. The CloudDet system contains \ufb01ve interactive modules: (1) Spatial Overview, (2) Temporal Overview, (3) Rank View, (4) Performance View in the horizon chart mode, and (5) Cluster View. The performance view contains two other views/modes: (6) the multi-line mode and (7) the PCA mode. Users can select and \ufb01lter data in (a), switch to different visualization modes in different views by buttons (b) and (d), and change the layout by the slider bar in (c). (f) is the explanation of the glyph in (5). (e) shows the color schemes used in different views. ",
+        "viewIds": [
+            "vis-3213_03_0",
+            "vis-3213_03_1",
+            "vis-3213_03_2",
+            "vis-3213_03_3",
+            "vis-3213_03_4"
+        ]
+    },
+    {
+        "figId": "vis-3214_00",
+        "figFile": "vis-3214_00.png",
+        "title": "Exploranative Code Quality Documents",
+        "caption": "Fig. 1. Exploranative code quality document for Lucene 2.0. A Textual overview in terms of quality attributes, code smells, and bugs, which includes embedded visualizations. B Overview visualizations: parallel coordinates plot and scatterplot. C Source code of a class provided in the details view. D Description of a quality attribute alternatively presented in the details view.",
+        "viewIds": [
+            "vis-3214_00_0",
+            "vis-3214_00_1"
+        ]
+    },
+    {
+        "figId": "vis-3217_00",
+        "figFile": "vis-3217_00.png",
+        "title": "MetricsVis: A Visual Analytics System for Evaluating Employee Performance in Public Safety Agencies",
+        "caption": "Fig. 1. MetricsVis overview: The priority adjustment view (2) encodes the crowdsourced crime severity ratings from police officers and citizens (perceived importance of factors); the red dots indicate the currently assigned weights used in the evaluation metrics. The projection view (6) shows the dimensionality reduction results. The group performance view (5) contains three visual representations that show an overview of group performance and the contribution of each member. The performance matrix view (3) displays the individual employee performance with employees in columns and job types in rows (here, employees are sorted based on their group first and then their total performance scores). The control panel shows the filters (1) and grouping method (4) applied in use case 1.",
+        "viewIds": [
+            "vis-3217_00_0",
+            "vis-3217_00_1",
+            "vis-3217_00_2",
+            "vis-3217_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3218_04",
+        "figFile": "vis-3218_04.png",
+        "title": "R-Map: A Map Metaphor for Visualizing Information Reposting Process in Social Media",
+        "caption": "Fig. 5. R-Map System Interface. (a) Weibo Table View, for selecting different weibos; (b) R-Map View, summarizing the diffusion process of an original weibo; (c) User Information Panel, showing features of users; (d) Timeline View, revealing the temporal patterns of repostings induced by different key players; (e) Word Cloud View, showing hot keywords of the selected weibos; (f) R-Map Legend, showing visual mappings in the map. For the convenience of non-Chinese readers, keywords and some important weibos are translated from Chinese to English.",
+        "viewIds": [
+            "vis-3218_04_0",
+            "vis-3218_04_1",
+            "vis-3218_04_2"
+        ]
+    },
+    {
+        "figId": "vis-3219_00",
+        "figFile": "vis-3219_00.png",
+        "title": "A Natural-language-based Visual Query Approach of Uncertain Human Trajectories",
+        "caption": "Fig. 1. (a) The query condition specification view. (b) The relevance tree with the spatial keyword \u2018tourist attractions\u2019. (c) The drop-down menu for changing the type of the input keyword. (d) The semantics view shows that the major region functional topic is \u2018residential related\u2019. (e) The map view shows that the queried trajectories are mainly distributed in the northwest (named \u2018Jiangxin island\u2019), the middle, and the east (named \u2018Wuhua building\u2019) of the city. (f) Most trajectories land the island from its east through ferry. (g) The region functional topics. (h) The rendering parameter widget. (i) The temporal graph view. (j) The detail result view of the queried trajectories. (k) Detail study of urban areas.",
+        "viewIds": [
+            "vis-3219_00_0",
+            "vis-3219_00_1",
+            "vis-3219_00_2",
+            "vis-3219_00_3",
+            "vis-3219_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3225_00",
+        "figFile": "vis-3225_00.png",
+        "title": "ICE: An Interactive Configuration Explorer for High Dimensional Categorical Parameter Spaces",
+        "caption": "Figure 1: A B C: Interface of our Interactive Configuration Explorer (ICE) tool used to explore high dimensional parameter spaces. This example shows the use of the ICE in a computer systems performance optimization scenario.A is the Parameter Explorer. It shows the distribution and statistics of the numerical target variable in the context of the various categorical variables (or parameters), labeled by the green buttons at the bottom of the interface (e.g., Workload, File System). Each parameter has levels e.g., Workload has 4 levels (dbsrvr, filesrvr, mailsrvr, and websrvr), and each level has an associated bar displaying the statistical information about the numerical target variable (here, system throughput) for this level. Analysts can interactively deselect (and select) parameter levels to filter out the associated parameter configurations throughout. B is the Aggregate View, which visualizes the joint distributions of all currently selected parameter levels.C is the Provenance Terminal, to keep track of the changes in the target variable over the course of the user interactions. D shows the information contained in each bar inside the Parameter Explorer and Aggregate View.",
+        "viewIds": [
+            "vis-3225_00_0",
+            "vis-3225_00_1",
+            "vis-3225_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3229_00",
+        "figFile": "vis-3229_00.png",
+        "title": "FAIRVIS: Visual Analytics for Discovering Intersectional Bias in Machine Learning",
+        "caption": "Figure 1:  FAIRVIS integrates multiple coordinated views for discovering intersectional bias.  Above, our user investigates the intersectional subgroups of sex and race. A. The Feature Distribution View allows users to visualize each feature\u2019s distribution and generate subgroups. B.The Subgroup Overview lets users select various fairness metrics to see the global average per metric and compare subgroups to one another, e.g.,pinned Caucasian Males versus hovered African-American Males. The plots for Recall and False Positive Rate show that for African-American Males, the model has relatively high recall but also the highest false positive rate out of all subgroups of sex and race. C.The Detailed Comparison View lets users compare the details of two groups and investigate their class balances. Since the difference in False Positive Rates between Caucasian Males and African-American Males is far larger than their difference in base rates, a user suspects this part of the model merits further inquiry. D. The Suggested and Similar Subgroup View shows suggested subgroups ranked by the worst performance in a given metric.",
+        "viewIds": [
+            "vis-3229_00_0",
+            "vis-3229_00_1",
+            "vis-3229_00_2",
+            "vis-3229_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3294_02",
+        "figFile": "vis-3294_02.png",
+        "title": "A Visual Analytics Framework for Contrastive Network Analysis",
+        "caption": "Figure 2: The analyst is using ContraNA to conduct a contrastive analysis of the Dolphin social network [69] (the target network) and the Zachary\u2019s karate club network [94] (the background network). (a) A contrastive representation view shows contrastive representations of target and background networks. (b) A feature contribution view visualizes network features generated by DeepGL and their contributions to each cPC (i.e., scaled cPC loadings). (c) A probability distribution view depicts target and background networks\u2019 probability distributions of the selected network feature in (b). (d)(e) A network layout view draws laid-out target and background networks, respectively. (f) The analyst can change several settings of the algorithm and visualizations from the drop-down menu. ",
+        "viewIds": [
+            "vis-3294_02_0",
+            "vis-3294_02_1",
+            "vis-3294_02_2"
+        ]
+    },
+    {
+        "figId": "vis-3295_00",
+        "figFile": "vis-3295_00.png",
+        "title": "VATLD: A Visual Analytics System to Assess, Understand and Improve Traffic Light Detection",
+        "caption": "Fig. 1. The VATLD user interface: (a) Summary and navigation of key performance statistics; (b) Visual landscapes of traf\ufb01c lights (upper) and performance scores (lower) over the \ufb01rst two PCA components of semantic dimensions; (c) A live view to detect a traf\ufb01c light from either real data or adversarial; (d) Ranked latent dimensions with information of semantics, performance and gradients. ",
+        "viewIds": [
+            "vis-3295_00_0",
+            "vis-3295_00_1",
+            "vis-3295_00_2",
+            "vis-3295_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3296_00",
+        "figFile": "vis-3296_00.png",
+        "title": "iConViz: Interactive Visual Exploration of the Default Contagion Risk of Networked-Guarantee Loans",
+        "caption": "Figure 1: System interface of iConViz: (a) Guarantee Network Explorer. It facilitates an overview of and zooming in on levels of detail regarding guarantee networks using a network tessellation layout. It also offers intuitive metaphorical symbols (Contagion Effect Badges) of contagion risk to support the selection of interesting networks. (b) Contagion Effect Matrix. This gives detailed contagion risk patterns and quanti\ufb01es severity. (c) Chain Instance Explorer. This supports further narrowing of the search space for instances of contagion from a \ufb01nancial perspective. (d) Node Instance Explorer. This visualizes the \ufb01nest-grain information on demand. ",
+        "viewIds": [
+            "vis-3296_00_0",
+            "vis-3296_00_1",
+            "vis-3296_00_2",
+            "vis-3296_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3299_00",
+        "figFile": "vis-3299_00.png",
+        "title": "A Visual Analytics Approach for Exploratory Causal Analysis: Exploration, Validation, and Applications",
+        "caption": "Fig. 1. The user interface of Causality Explorer demonstrated with a real-world audiology dataset that consists of 200 rows and 24 dimensions [18]. (a) A scalable causal graph layout that can handle high-dimensional data. (b) Histograms of all dimensions for comparative analyses of the distributions. (c) Clicking on a histogram will display the detailed data in the table view. (b) and (c) are coordinated to support what-if analyses. In the causal graph, each node is represented by a pie chart (d) and the causal direction (e) is from the upper node (cause) to the lower node (result). The thickness of a link encodes the uncertainty (f). Nodes without descendants are placed on the left side of each layer to improve readability (g). Users can double-click on a node to show its causality subgraph (h). ",
+        "viewIds": [
+            "vis-3299_00_0",
+            "vis-3299_00_1"
+        ]
+    },
+    {
+        "figId": "vis-3300_00",
+        "figFile": "vis-3300_00.png",
+        "title": "PipelineProfiler: A Visual Analytics Tool for the Exploration of AutoML Pipelines",
+        "caption": "Fig. 1. PipelinePro\ufb01ler applied to the analysis of binary classi\ufb01cation pipelines generated by \ufb01ve different AutoML systems for the Statlog (Heart) Data Set. A) The system is integrated with Jupyter Notebook and can be invoked with one line of code. B) PipelinePro\ufb01ler menu, with options to subset, export, sort, and perform automated analysis on pipelines. C) Pipeline Matrix: C1) Primitives (columns) used by the pipelines (rows). C2) Tooltip showing the metadata and hyperparameters for a primitive. C3) One-hot-encoded hyperparameters (columns) for the primitive Xgboost Gbtree across pipelines (rows). C4) Pipeline scores: users can select different metrics to rank pipelines. C5) Primitive Contribution View, showing correlations between primitive usage and pipeline scores (here, Deep Feature Synthesis has the highest correlation with F1 scores). D) Pipeline Comparison View: visual comparison of the top-3 scoring pipelines. ",
+        "viewIds": [
+            "vis-3300_00_0"
+        ]
+    },
+    {
+        "figId": "vis-3305_00",
+        "figFile": "vis-3305_00.png",
+        "title": "Visual cohort comparison for spatial single-cell omics-data",
+        "caption": "Fig. 1. Screenshot of our integrated system including the view for the comparison based on the cell abundance using raincloud plots (a), the tissue view, showing selected samples of the two cohorts (b), and the multi-cellular microenvironment comparison view using a difference heatmap and raincloud plots (c). ",
+        "viewIds": [
+            "vis-3305_00_0",
+            "vis-3305_00_1"
+        ]
+    },
+    {
+        "figId": "vis-3306_00",
+        "figFile": "vis-3306_00.png",
+        "title": "Towards Better Bus Networks: A Visual Analytics Approach",
+        "caption": "Fig. 1. The interface of BNVA. A, C, G, H) The pattern indicated by the transfers from Route #683 to #696 suggests that Route #683 can be extended farther into the west. B) The network-level analysis, comprising the map, route, and aggregation layers, facilitates the exploration of network performance. D) The zone glyph summarizes the statistics and passenger flows of a transportation zone. E) The toolbox provides fine-grained controls for the model. F) The route ranking view depicts the performance criteria of the routes. ",
+        "viewIds": [
+            "vis-3306_00_0",
+            "vis-3306_00_1",
+            "vis-3306_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3307_00",
+        "figFile": "vis-3307_00.png",
+        "title": "Visual Analytics of Multivariate Event Sequence Data in Racquet Sports",
+        "caption": "Figure 1: System Interface. (A) Attribute Editor is used to adjust the focus of the analysis and import domain knowledge. (B) Glyph Editor can \ufb01ne-tune the glyph design, where a glyph is used to encode an event to show multiple attributes simultaneously. (C) Pattern Comparator provides a one-to-one comparison on patterns. (D) Scatterplot provides a coarse-level overview and \ufb01lters patterns. (E) Instance View shows the detailed information of sequences. ",
+        "viewIds": [
+            "vis-3307_00_0",
+            "vis-3307_00_1",
+            "vis-3307_00_2",
+            "vis-3307_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3308_00",
+        "figFile": "vis-3308_00.png",
+        "title": "DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models",
+        "caption": "Fig. 1. The DECE interface for exploring a machine learning model\u2019s decisions with counterfactual explanations. The user uses the table view (A) for subgroup level analysis. The table header (A1) supports the exploration of the table with sorting and \ufb01ltering operations. The subgroup list (A2) presents the subgroups in rows and summarizes their counterfactual examples. The user can interactively create, update, and delete a list of subgroups. The instance lens (A3) visualizes each instance in the focused subgroup as a single thin horizontal line. In the instance view (B), the user can customize (B1) and inspect the diverse counterfactual examples of a single instance in an enhanced parallel coordinate view (B2). ",
+        "viewIds": [
+            "vis-3308_00_0",
+            "vis-3308_00_1"
+        ]
+    },
+    {
+        "figId": "vis-3309_00",
+        "figFile": "vis-3309_00.png",
+        "title": "ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data",
+        "caption": "Figure 1: ConceptExplorer contains \ufb01ve main views. (a) The data entrance introduces the applied data sources and attributes. (b) The timeline navigator view is used to select interested time segments; (c) The prediction model view presents the training process of prediction models to explain concept drift detection model; (d) The concept-time view shows the time segments recommended for analyzing concepts based on the moment selected by analysts in prediction model view. (e) The explanation view compares concepts pairwise through a correlation matrix. ",
+        "viewIds": [
+            "vis-3309_00_0",
+            "vis-3309_00_1",
+            "vis-3309_00_2",
+            "vis-3309_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3311_00",
+        "figFile": "vis-3311_00.png",
+        "title": "CNNPruner: Pruning Convolutional Neural Networks with Visual Analytics",
+        "caption": "Fig. 1. CNNPruner: (a) the Tree view helps to track different pruning plans; (b) the Statistics view presents model-critic statistics to monitor the pruned models; (c) the Model view enables users to interactively conduct the pruning with informative visual hints from different criteria; (d) the Filter view presents details of individual \ufb01lters for users to investigate and interactively prune them. ",
+        "viewIds": [
+            "vis-3311_00_0",
+            "vis-3311_00_1",
+            "vis-3311_00_2",
+            "vis-3311_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3315_00",
+        "figFile": "vis-3315_00.png",
+        "title": "TaxThemis: Interactive Mining and Exploration of Suspicious Tax Evasion Group",
+        "caption": "Fig. 1. The system interface of TaxThemis: (A) The Control Panel consists of a bar chart to show the temporal summary of the daily related party\u2019s daily transaction amounts, together with a parameter selector to support network fusion through interactively setting the preferred period or relevant thresholds. (B) The Group Overview visualizes the topology of related party transactions in each suspicious group, and ranks the groups by their group features. This helps users focus on the most suspicious groups. (C) The Graph View shows the hierarchical investment relationships and related party transactions within the selected suspicious group. It supports group assessment in revealing the common bene\ufb01cial owners and former tax evaders. (D) The Detail View presents the pro\ufb01t status of the traders who conducted the selected related party transactions, revealing their suspicious behavior of transferring revenue transfers. ",
+        "viewIds": [
+            "vis-3315_00_0",
+            "vis-3315_00_1",
+            "vis-3315_00_2",
+            "vis-3315_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3317_00",
+        "figFile": "vis-3317_00.png",
+        "title": "QLens: Visual Analytics of Multi-step Problem-solving Behaviors for Improving Question Design",
+        "caption": "Fig. 1. QLens enables question designers to analyze students\u2019 multi-step problem-solving behaviors for design improvements from levels of detail. (1) Macro-level: Overview (a) shows the question\u2019s preview (a1), students\u2019 overall performance (a2) and the ranking of common wrong answers based on the frequency of occurence(a3). (2) Meso-level: Transition View (b) visualizes the problem-solving processes to re\ufb02ect how a group of students proceed step by step (problem-solving logic) using a novel glyph-embedded Sankey diagram (b2) and the amount of efforts (engagement) using a contextual axis (b3). In addition, Comparison View (c) enables users to compare the problem-solving logic, engagement, and encountered dif\ufb01culties of different groups (c1, c2, c3). (3) Micro-level (the highlighted path in b): typical incorrect paths and the corresponding data-driven recommended paths are demonstrated for question designers to evaluate the feasibility of the data-driven feedback. Rich interactions are also provided for exploration (e.g., \ufb01lters in b1). ",
+        "viewIds": [
+            "vis-3317_00_0",
+            "vis-3317_00_1",
+            "vis-3317_00_2",
+            "vis-3317_00_3",
+            "vis-3317_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3322_00",
+        "figFile": "vis-3322_00.png",
+        "title": "Boba: Authoring and Visualizing Multiverse Analyses",
+        "caption": "Fig. 1. Authoring and visualizing multiverse analyses with Boba. Users start by annotating a script with analytic decisions (a), from which Boba synthesizes a multiplex of possible analysis variants (b). To interpret the results from all analyses, users start with a graph of analytic decisions (c), where sensitive decisions are highlighted in darker blues. Clicking a decision node allows users to compare point estimates (d, blue dots) and uncertainty distributions (d, gray area) between different alternatives. Users may further drill down to assess the \ufb01t quality of individual models (e) by comparing observed data (pink) with model predictions (teal). ",
+        "viewIds": [
+            "vis-3322_00_0",
+            "vis-3322_00_1",
+            "vis-3322_00_2",
+            "vis-3322_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3326_01",
+        "figFile": "vis-3326_01.png",
+        "title": "A Visual Analytics Framework for Reviewing Multivariate Time-Series Data with Dimensionality Reduction",
+        "caption": "Fig. 2: A screenshot of MulTiDR visual interface. Here we visualize the AirData [50], air quality data at outdoor monitors across the US, collected in 2018. (a) A two-step DR (TDR) view draws the DR results obtained through the two-step DR. (b) A supplemental information (SI) view supports understanding selected points in the TDR view with the auxiliary information. (c) A feature contribution (FC) view visualizes features (either instances, variables, or time points) and their contributions to characteristics of each of the selected clusters. (d) A histogram comparison (HC) view shows the feature values in the \ufb01rst DR result Y of the selected element in (c). (e) A parametric mapping (PM) view depicts parametric mappings generated in the \ufb01rst DR, speci\ufb01cally the mappings to the \ufb01rst principal component in this example. (f) The analyst can select a type of DR results. ",
+        "viewIds": [
+            "vis-3326_01_0",
+            "vis-3326_01_1",
+            "vis-3326_01_2",
+            "vis-3326_01_3"
+        ]
+    },
+    {
+        "figId": "vis-3327_00",
+        "figFile": "vis-3327_00.png",
+        "title": "Auditing the Sensitivity of Graph-based Ranking with Visual Analytics",
+        "caption": "Fig. 1. Sensitivity analysis of HITS on political blogs. (1) A prede\ufb01ned rule is set to exclude all perturbations that would cause the rankings of the top-5 blogs to decrease. (2) The blog liberaloasis.com has the largest in\ufb02uence under this constraint, and its removal can increase the rankings of the conservative blogs while decreasing the rankings of the liberal blogs. (3) The in\ufb02uence overview indicates that nearly 2/3 of the in\ufb02uenced nodes see a ranking increase. (4) The ranking change distribution view further shows that most of the ranking-increased nodes are conservative blogs and most of the ranking-decreased nodes are liberal blogs, from which the top-3 heavily in\ufb02uenced nodes are ranked 200th or below. (5) The top-k proportional view shows that the proportion of liberal blogs decreased from 82% to 77% in the top-100 due to the perturbation.(6, 7) The in\ufb02uence graph view implies that the removal of liberaloasis.com has a direct in\ufb02uence on the majority of the liberal nodes (including the top-3 in\ufb02uenced nodes), and as the in\ufb02uence distance increases, more conservative nodes are indirectly in\ufb02uenced. ",
+        "viewIds": [
+            "vis-3327_00_0",
+            "vis-3327_00_1",
+            "vis-3327_00_2",
+            "vis-3327_00_3",
+            "vis-3327_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3330_03",
+        "figFile": "vis-3330_03.png",
+        "title": "PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes",
+        "caption": "Fig. 4. System interface. The system comprises two views, namely, an evolution view (A) and a phase view (D). The evolution view provides a diagram to show a summarization of passing patterns (B) and a \ufb02ow (C) to show the temporal distribution of passing patterns over phases. Users can select a phase (C3) and the detailed information, including the passing process (D1) and statistics (D3, D4), can be seen in the phase view (D). ",
+        "viewIds": [
+            "vis-3330_03_0",
+            "vis-3330_03_1",
+            "vis-3330_03_2",
+            "vis-3330_03_3",
+            "vis-3330_03_4"
+        ]
+    },
+    {
+        "figId": "vis-3332_00",
+        "figFile": "vis-3332_00.png",
+        "title": "Diagnosing Concept Drift with Visual Analytics",
+        "caption": "Figure 1: DriftVis: A visual analytics system for detecting, explaining, and correcting for concept drift: (a) The stream-level visualization consists of a line chart for drift degree (A), a feature selection list (B), and a streaming scatterplot (C) to visualize the drift and data distribution change over time (e.g., density increases in G, H, and I); (b) The prediction-level visualization consists of a base learner view (D), a samples of interest view (E), and a performance view (F) to explore the impact of drift adaptation on the model\u2019s accuracy. ",
+        "viewIds": [
+            "vis-3332_00_0",
+            "vis-3332_00_1",
+            "vis-3332_00_2",
+            "vis-3332_00_3",
+            "vis-3332_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3334_00",
+        "figFile": "vis-3334_00.png",
+        "title": "HyperTendril: Visual Analytics for User-Driven Hyperparameter Optimization of Deep Neural Networks",
+        "caption": "Fig. 1. Overview of HyperTendril that supports user-driven AutoML processes. This example involves the three hyperparameters, e.g., the number of layers, learning rate, and weight decay in the ResNet architecture, using a Bayesian Optimization and HyperBand (BOHB) search method. (C) Search space overview, (D) Model analysis view, and (E1) Exploration overview components shows the model details selected in (B2) Selected experiments panel. The weight decay hyperparameter is activated in (C) Search space overview, and its effective range is highlighted in the parallel coordinates. ",
+        "viewIds": [
+            "vis-3334_00_0",
+            "vis-3334_00_1",
+            "vis-3334_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3338_00",
+        "figFile": "vis-3338_00.png",
+        "title": "Visual Causality Analysis of Event Sequence Data",
+        "caption": "Fig. 1. An overview of the SeqCausal interface. The query view (1) provides a set of \ufb01lters for the user to select sequences for analysis. The sequence list view (2) displays individual records retrieved from the query. The causal model view (3) displays the causal relations of events calculated from the back-end causality analysis model. Users can modify the graph, for example, con\ufb01rm or delete a causal link, by examining causal relations from the causal sequence view (4), which summarizes causal patterns in raw event sequences. The analysis history view (5) stores causalities of different queried subsets, from which users can select any two items to compare their causal relations in the causal comparison view (6). ",
+        "viewIds": [
+            "vis-3338_00_0",
+            "vis-3338_00_1",
+            "vis-3338_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3341_00",
+        "figFile": "vis-3341_00.png",
+        "title": "Githru: visual analytics of understanding software development context through git historical metadata analysis",
+        "caption": "Fig. 1. Githru system. (a) The Global Temporal Filter shows commit trends by number of commits and CLOC (changed lines of code). (b) The Clustering Step controls the granularity of clustering. (c) The stem graph visualizes a cluster information of each commit at a single glance. (d) The Grouped Summary View provides a rough summary of the selected clusters. (e) A file icicle tree allows users to interactively observe the modified file hierarchy. (f) The commit list shows all the commits in a selected cluster. (g) Comparison View enables a comparison between selected groups.",
+        "viewIds": [
+            "vis-3341_00_0",
+            "vis-3341_00_1",
+            "vis-3341_00_2",
+            "vis-3341_00_3",
+            "vis-3341_00_4"
+        ]
+    },
+    {
+        "figId": "vis-3342_00",
+        "figFile": "vis-3342_00.png",
+        "title": "A Visual Analytics Framework for Explaining and Diagnosing Transfer Learning Processes",
+        "caption": "Fig. 1. The visual analytics for transfer learning interface consists of four components: (A) statistical information summary, (B) the instance view, (C) the network relation view, and (D) the feature view. For the Office-31 dataset, (1) the prediction accuracy of the target model on the source dataset is lower than the source model; (2) for the target dataset, classes such as filec_abinet and phone have a large performance gap between the source and the target models; (3) the neuron similarity matrices and the weights are presented; (4) some neurons have high domain discriminability, while Neuron #173 in Layer 5 is domain-invariant.",
+        "viewIds": [
+            "vis-3342_00_0",
+            "vis-3342_00_1",
+            "vis-3342_00_2",
+            "vis-3342_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3344_00",
+        "figFile": "vis-3344_00.png",
+        "title": "Selection-Bias-Corrected Visualization via Dynamic Reweighting",
+        "caption": "Fig. 1.  Coordinated visualization panels supporting the dynamic reweighting workflow. The visual designs help users discover dimensions with high selection bias, select dimensions for correction, and assess both the quality and impact of a reweighting solution.",
+        "viewIds": [
+            "vis-3344_00_0",
+            "vis-3344_00_1",
+            "vis-3344_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3345_00",
+        "figFile": "vis-3345_00.png",
+        "title": "In Search of Patient Zero: Visual Analytics of Pathogen Transmission Pathways in Hospitals",
+        "caption": "Figure 1: Transmission pathway tracing interface.  1. The Epidemic Curve Viewshows the number of infected patients.  2. The Contact Network View shows patient contacts as a network. 3. The Transmission Pathway View shows contacts and infection status. Tracing interaction shows potential infection transmission events. 4. Patient event details are shown in Patient Timeline View.",
+        "viewIds": [
+            "vis-3345_00_0",
+            "vis-3345_00_1",
+            "vis-3345_00_2",
+            "vis-3345_00_3"
+        ]
+    },
+    {
+        "figId": "vis-3349_00",
+        "figFile": "vis-3349_00.png",
+        "title": "StackGenVis: Alignment of Data, Algorithms, and Models for Stacking Ensemble Learning Using Performance Metrics",
+        "caption": "Fig. 1. Constructing performant stacking ensembles from scratch with StackGenVis: (a) a panel for uploading data sets and choosing weights for performance metrics; (b) the history preservation panel with the composition and performance achieved by the user-built stored stacking ensembles; (c) the comparison of the metamodel\u2019s performance for both the active and stored stackings, based on four performance metrics (linked to view (a) with a dice glyph showing four); (d) the three exploration modes for the algorithms, data, and models; (e) the projection-based models\u2019 space visualization, which summarizes the results of all the selected performance metrics for all models; and (f) the predictions\u2019 space visual embedding, which arranges the data instances based on the collective outcome of the models in the current stored stack S6\u00a9 (marked in bold typeface in (b)).",
+        "viewIds": [
+            "vis-3349_00_0",
+            "vis-3349_00_1",
+            "vis-3349_00_2"
+        ]
+    },
+    {
+        "figId": "vis-3352_00",
+        "figFile": "vis-3352_00.png",
+        "title": "Visual Analytics for Temporal Hypergraph Model Exploration",
+        "caption": "Fig. 1. HYPER-MATRIX, a novel approach to explore and refine temporal hypergraph models using visual analytics. The interactive multi-level matrix-based visualization A enables the inspection of the model, together with the upper interface B. The main area shows the second semantic zoom level applied to an obfuscated real-world dataset in criminal investigations, while the five insets C show the other drill-down levels for exploration. The technique allows to interactively D contribute domain knowledge, the resulting implications have ripple effects on the whole machine learning model, thereby refining it.",
+        "viewIds": [
+            "vis-3352_00_0"
+        ]
+    },
+    {
+        "figId": "vis-3353_00",
+        "figFile": "vis-3353_00.png",
+        "title": "Visual Neural Decomposition to Explain Multivariate Data Sets",
+        "caption": "Fig. 1. Visual Neural Decomposition of a chip testing measurement data set with the goal to identify cases in which the target variable (here: jitter) exhibits high values. Each node visualizes parts of the data set depending on its activation.",
+        "viewIds": [
+            "vis-3353_00_0",
+            "vis-3353_00_1"
+        ]
+    }
+]
